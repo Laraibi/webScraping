@@ -1,15 +1,18 @@
 import requests
 from bs4 import BeautifulSoup, element
+import json
 
 playersInfos = []
 
 def isNotMain(css_class):
     return "main" not in css_class and "profileTable__row--soccer" in css_class
 
-URL = "https://www.flashscore.fr/equipe/raja-casablanca/vTnNkCKc/effectif/"
+URL = "https://www.flashscore.fr/equipe/wydad/2yuuwjkA/effectif/"
 page = requests.get(URL)
 soup = BeautifulSoup(page.content, "html.parser")
 botolaProTable = soup.find("div", id="league-rHDwiDmb-table")
+# botolaProTable = soup.find("div", id="league-tdkpynmB-table")
+#
 
 playersElements = botolaProTable.find_all("div", class_="tableTeam__squadInfo")
 for player in playersElements:
@@ -33,4 +36,9 @@ for player in playersElements:
         playersInfos.append(
             {"name": Name, "number": Number, "stats": objStats})
 
-print(playersInfos)
+# print(playersInfos)
+jsonStr = json.dumps(playersInfos)
+print(jsonStr)
+jsonFile = open("dataWAZZA.json", "w")
+jsonFile.write(jsonStr)
+jsonFile.close()
