@@ -25,10 +25,25 @@ except TimeoutException:
 
 
 matchsList = []
-matchsElemnts = driver.find_elements(By.CLASS_NAME, "event__match--twoLine")
-for x in range(5):
-    match = matchsElemnts[x]
-
+eventsElements = driver.find_elements(
+    By.CSS_SELECTOR, "div.event__match--twoLine,div.event__header")
+# eventsElements = driver.find_elements(
+#     By.XPATH, "//div[@class='event__match--twoLine' or @class='event__header']")
+# print(len(eventsElements))
+day = driver.find_element(
+    By.CSS_SELECTOR, "div.icon--calendar").text
+# for x in range(len(eventsElements)):
+for x in range(100):
+    event = eventsElements[x]
+    if "event__header" in event.get_attribute("class").split(" "):
+        league = event.find_element(By.CLASS_NAME, "event__title--name").text
+        country = event.find_element(
+            By.CLASS_NAME, "event__title--type").text.replace("\"", "")
+        # print(league)
+        continue
+    else:
+        # print("no league")
+        match = event
     # print(match.text)
     home = match.find_elements(By.CLASS_NAME, "event__participant--home")[
         0].text if len(match.find_elements(By.CLASS_NAME, "event__participant--home")) > 0 else ""
@@ -36,16 +51,31 @@ for x in range(5):
         0].text if len(match.find_elements(By.CLASS_NAME, "event__participant--away")) > 0 else ""
     time = match.find_elements(By.CLASS_NAME, "event__time")[0].text if len(match.find_elements(
         By.CLASS_NAME, "event__time")) > 0 else ""
+    score = {
+        "home": 0,
+        "away": 0,
+    }
+    score["away"] = match.find_elements(By.CLASS_NAME, "event__score--away")[0].text if len(match.find_elements(
+        By.CLASS_NAME, "event__score--away")) > 0 else ""
+    score["home"] = match.find_elements(By.CLASS_NAME, "event__score--home")[0].text if len(match.find_elements(
+        By.CLASS_NAME, "event__score--home")) > 0 else ""
     # league = match.find_elements(
     #     By.XPATH, "//div[@class='event__header'][1]")[0].text
-    league = match.find_elements(
-        By.XPATH, "//preceding::div[@class='event__header']")[0].text
-    print(league)
+    # league = match.find_elements(
+    #     By.XPATH, "//preceding::div[@class='event__header']")[0].text
+    # print(league)
+    isEnded = True
+    # isEnded = True if match.find_element(By.CLASS_NAME, "event__stage--block").text == "Terminé" else False
     matchsList.append({"home": home,
                        "away": away,
                        "time": time,
+                       "league": league,
+                       "country": country,
+                       "score": score,
+                       "Day": day,
+                       "Ended": isEnded
                        })
-exit()
+# exit()
 # print(matchsList)
 jsonStr = json.dumps(matchsList)
 jsonFile = open("matchsToDay.json", "w")

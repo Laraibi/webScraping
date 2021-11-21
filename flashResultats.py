@@ -39,6 +39,6 @@ for player in playersElements:
 # print(playersInfos)
 jsonStr = json.dumps(playersInfos)
 print(jsonStr)
-jsonFile = open("dataWAZZA.json", "w")
+jsonFile = open("dataClub.json", "w")
 jsonFile.write(jsonStr)
 jsonFile.close()
