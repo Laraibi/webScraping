@@ -31,9 +31,9 @@ eventsElements = driver.find_elements(
 #     By.XPATH, "//div[@class='event__match--twoLine' or @class='event__header']")
 # print(len(eventsElements))
 day = driver.find_element(
-    By.CSS_SELECTOR, "div.icon--calendar").text
-# for x in range(len(eventsElements)):
-for x in range(100):
+    By.CSS_SELECTOR, "div.calendar__datepicker").text.split(" ")[0]
+for x in range(len(eventsElements)):
+# for x in range(20):
     event = eventsElements[x]
     if "event__header" in event.get_attribute("class").split(" "):
         league = event.find_element(By.CLASS_NAME, "event__title--name").text
@@ -64,8 +64,11 @@ for x in range(100):
     # league = match.find_elements(
     #     By.XPATH, "//preceding::div[@class='event__header']")[0].text
     # print(league)
-    isEnded = True
-    # isEnded = True if match.find_element(By.CLASS_NAME, "event__stage--block").text == "Terminé" else False
+    isEnded = "unKnown"
+    if len(match.find_elements(By.CLASS_NAME, "event__stage--block")) > 0:
+        isEnded = True if match.find_element(
+            By.CLASS_NAME, "event__stage--block").text == "Terminé" else False
+
     matchsList.append({"home": home,
                        "away": away,
                        "time": time,
@@ -77,8 +80,10 @@ for x in range(100):
                        })
 # exit()
 # print(matchsList)
-jsonStr = json.dumps(matchsList)
-jsonFile = open("matchsToDay.json", "w")
-jsonFile.write(jsonStr)
-jsonFile.close()
+# jsonStr = json.dumps(matchsList)
+# jsonFile = open("matchsToDay.json", "w")
+# jsonFile.write(jsonStr)
+with open('matchsToDay.json', 'w', encoding='utf8') as json_file:
+    json.dump(matchsList, json_file, ensure_ascii=False)
+json_file.close()
 driver.quit()
