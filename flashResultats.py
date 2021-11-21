@@ -6,7 +6,7 @@ playersInfos = []
 
 def isNotMain(css_class):
     return "main" not in css_class and "profileTable__row--soccer" in css_class
-
+# headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36'}
 URL = "https://www.flashscore.fr/equipe/wydad/2yuuwjkA/effectif/"
 page = requests.get(URL)
 soup = BeautifulSoup(page.content, "html.parser")

@@ -1,0 +1,266 @@
+[
+    {
+        "name": "Alisson",
+        "number": "1",
+        "stats": {
+            "age": "29",
+            "played": "10",
+            "goals": "0",
+            "yCards": "0",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Kelleher Caoimhin",
+        "number": "62",
+        "stats": {
+            "age": "22",
+            "played": "1",
+            "goals": "0",
+            "yCards": "0",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Alexander-Arnold Trent",
+        "number": "66",
+        "stats": {
+            "age": "23",
+            "played": "9",
+            "goals": "1",
+            "yCards": "1",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Gomez Joe",
+        "number": "12",
+        "stats": {
+            "age": "24",
+            "played": "2",
+            "goals": "0",
+            "yCards": "0",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Konate Ibrahima",
+        "number": "5",
+        "stats": {
+            "age": "22",
+            "played": "3",
+            "goals": "0",
+            "yCards": "0",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Matip Joel",
+        "number": "32",
+        "stats": {
+            "age": "30",
+            "played": "8",
+            "goals": "0",
+            "yCards": "0",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Robertson Andrew",
+        "number": "26",
+        "stats": {
+            "age": "27",
+            "played": "8",
+            "goals": "0",
+            "yCards": "2",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Tsimikas Konstantinos",
+        "number": "21",
+        "stats": {
+            "age": "25",
+            "played": "5",
+            "goals": "0",
+            "yCards": "1",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Williams Neco",
+        "number": "76",
+        "stats": {
+            "age": "20",
+            "played": "1",
+            "goals": "0",
+            "yCards": "0",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "van Dijk Virgil",
+        "number": "4",
+        "stats": {
+            "age": "30",
+            "played": "11",
+            "goals": "0",
+            "yCards": "0",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Alcantara Thiago",
+        "number": "6",
+        "stats": {
+            "age": "30",
+            "played": "5",
+            "goals": "0",
+            "yCards": "0",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Fabinho",
+        "number": "3",
+        "stats": {
+            "age": "28",
+            "played": "7",
+            "goals": "1",
+            "yCards": "2",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Henderson Jordan",
+        "number": "14",
+        "stats": {
+            "age": "31",
+            "played": "10",
+            "goals": "1",
+            "yCards": "1",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Jones Curtis",
+        "number": "17",
+        "stats": {
+            "age": "20",
+            "played": "5",
+            "goals": "1",
+            "yCards": "0",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Keita Naby",
+        "number": "8",
+        "stats": {
+            "age": "26",
+            "played": "7",
+            "goals": "2",
+            "yCards": "0",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Milner James",
+        "number": "7",
+        "stats": {
+            "age": "35",
+            "played": "5",
+            "goals": "0",
+            "yCards": "2",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Oxlade-Chamberlain Alex",
+        "number": "15",
+        "stats": {
+            "age": "28",
+            "played": "6",
+            "goals": "0",
+            "yCards": "0",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Elliott Harvey",
+        "number": "67",
+        "stats": {
+            "age": "18",
+            "played": "4",
+            "goals": "0",
+            "yCards": "0",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Firmino Roberto",
+        "number": "9",
+        "stats": {
+            "age": "30",
+            "played": "8",
+            "goals": "4",
+            "yCards": "0",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Jota Diogo",
+        "number": "20",
+        "stats": {
+            "age": "24",
+            "played": "10",
+            "goals": "4",
+            "yCards": "1",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Mane Sadio",
+        "number": "10",
+        "stats": {
+            "age": "29",
+            "played": "11",
+            "goals": "6",
+            "yCards": "0",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Minamino Takumi",
+        "number": "18",
+        "stats": {
+            "age": "26",
+            "played": "2",
+            "goals": "0",
+            "yCards": "1",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Origi Divock",
+        "number": "27",
+        "stats": {
+            "age": "26",
+            "played": "2",
+            "goals": "1",
+            "yCards": "0",
+            "rCards": "0"
+        }
+    },
+    {
+        "name": "Salah Mohamed",
+        "number": "11",
+        "stats": {
+            "age": "29",
+            "played": "11",
+            "goals": "10",
+            "yCards": "1",
+            "rCards": "0"
+        }
+    }
+]
