@@ -1,800 +1,553 @@
 [
     {
-        "home": "Fribourg",
-        "away": "Eintracht Francfort",
-        "time": "",
-        "league": "Bundesliga",
+        "home": "Dyn. Kiev",
+        "away": "Bayern Munich",
+        "time": "18:45",
+        "league": "Ligue des Champions - Phase de groupe",
+        "country": "EUROPE",
+        "score": {
+            "home": "",
+            "away": ""
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Villarreal",
+        "away": "Manchester Utd",
+        "time": "18:45",
+        "league": "Ligue des Champions - Phase de groupe",
+        "country": "EUROPE",
+        "score": {
+            "home": "",
+            "away": ""
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Barcelone",
+        "away": "Benfica",
+        "time": "21:00",
+        "league": "Ligue des Champions - Phase de groupe",
+        "country": "EUROPE",
+        "score": {
+            "home": "",
+            "away": ""
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Chelsea",
+        "away": "Juventus",
+        "time": "21:00",
+        "league": "Ligue des Champions - Phase de groupe",
+        "country": "EUROPE",
+        "score": {
+            "home": "",
+            "away": ""
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "FC Séville",
+        "away": "Wolfsburg",
+        "time": "21:00",
+        "league": "Ligue des Champions - Phase de groupe",
+        "country": "EUROPE",
+        "score": {
+            "home": "",
+            "away": ""
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Lille",
+        "away": "Red Bull Salzbourg",
+        "time": "21:00",
+        "league": "Ligue des Champions - Phase de groupe",
+        "country": "EUROPE",
+        "score": {
+            "home": "",
+            "away": ""
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Malmo FF",
+        "away": "Zenit",
+        "time": "21:00",
+        "league": "Ligue des Champions - Phase de groupe",
+        "country": "EUROPE",
+        "score": {
+            "home": "",
+            "away": ""
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Young Boys",
+        "away": "Atalanta",
+        "time": "21:00",
+        "league": "Ligue des Champions - Phase de groupe",
+        "country": "EUROPE",
+        "score": {
+            "home": "",
+            "away": ""
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Rosenheim",
+        "away": "Pipinsried",
+        "time": "19:00",
+        "league": "Regionalliga Bayern",
         "country": "ALLEMAGNE",
-        "score": {
-            "home": "0",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Mayence",
-        "away": "FC Cologne",
-        "time": "",
-        "league": "Bundesliga",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Manchester City",
-        "away": "Everton",
-        "time": "",
-        "league": "Premier League",
-        "country": "ANGLETERRE",
-        "score": {
-            "home": "3",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Tottenham",
-        "away": "Leeds",
-        "time": "",
-        "league": "Premier League",
-        "country": "ANGLETERRE",
-        "score": {
-            "home": "2",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Getafe",
-        "away": "Cadix CF",
-        "time": "",
-        "league": "LaLiga",
-        "country": "ESPAGNE",
-        "score": {
-            "home": "4",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Grenade",
-        "away": "Real Madrid",
-        "time": "",
-        "league": "LaLiga",
-        "country": "ESPAGNE",
-        "score": {
-            "home": "1",
-            "away": "4"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Elche",
-        "away": "Betis",
-        "time": "",
-        "league": "LaLiga",
-        "country": "ESPAGNE",
-        "score": {
-            "home": "0",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Real Sociedad",
-        "away": "Valence",
-        "time": "",
-        "league": "LaLiga",
-        "country": "ESPAGNE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Brest",
-        "away": "Lens",
-        "time": "",
-        "league": "Ligue 1",
-        "country": "FRANCE",
-        "score": {
-            "home": "4",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Angers",
-        "away": "Lorient",
-        "time": "",
-        "league": "Ligue 1",
-        "country": "FRANCE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Metz",
-        "away": "Bordeaux",
-        "time": "",
-        "league": "Ligue 1",
-        "country": "FRANCE",
-        "score": {
-            "home": "3",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Strasbourg",
-        "away": "Reims",
-        "time": "",
-        "league": "Ligue 1",
-        "country": "FRANCE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Troyes",
-        "away": "Saint-Étienne",
-        "time": "",
-        "league": "Ligue 1",
-        "country": "FRANCE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Clermont",
-        "away": "Nice",
-        "time": "",
-        "league": "Ligue 1",
-        "country": "FRANCE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Lyon",
-        "away": "Marseille",
-        "time": "",
-        "league": "Ligue 1",
-        "country": "FRANCE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Mineurs de Waziers",
-        "away": "Beauvais",
-        "time": "",
-        "league": "Coupe de France",
-        "country": "FRANCE",
-        "score": {
-            "home": "1",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Sassuolo",
-        "away": "Cagliari",
-        "time": "",
-        "league": "Serie A",
-        "country": "ITALIE",
-        "score": {
-            "home": "2",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Bologne",
-        "away": "Venezia",
-        "time": "",
-        "league": "Serie A",
-        "country": "ITALIE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Salernitana",
-        "away": "Sampdoria",
-        "time": "",
-        "league": "Serie A",
-        "country": "ITALIE",
-        "score": {
-            "home": "0",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Inter",
-        "away": "Naples",
-        "time": "",
-        "league": "Serie A",
-        "country": "ITALIE",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Genoa",
-        "away": "AS Rome",
-        "time": "",
-        "league": "Serie A",
-        "country": "ITALIE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "G.A. Eagles",
-        "away": "Groningen",
-        "time": "",
-        "league": "Eredivisie",
-        "country": "PAYS-BAS",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Feyenoord",
-        "away": "Zwolle",
-        "time": "",
-        "league": "Eredivisie",
-        "country": "PAYS-BAS",
-        "score": {
-            "home": "4",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Heerenveen",
-        "away": "Willem II",
-        "time": "",
-        "league": "Eredivisie",
-        "country": "PAYS-BAS",
-        "score": {
-            "home": "2",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Waalwijk",
-        "away": "Ajax",
-        "time": "",
-        "league": "Eredivisie",
-        "country": "PAYS-BAS",
-        "score": {
-            "home": "0",
-            "away": "5"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Cambuur",
-        "away": "Utrecht",
-        "time": "",
-        "league": "Eredivisie",
-        "country": "PAYS-BAS",
-        "score": {
-            "home": "2",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "TS Galaxy",
-        "away": "Swallows",
-        "time": "",
-        "league": "Premier Soccer League",
-        "country": "AFRIQUE DU SUD",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Maritzburg Utd",
-        "away": "Kaizer",
-        "time": "",
-        "league": "Premier Soccer League",
-        "country": "AFRIQUE DU SUD",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Teuta",
-        "away": "Skenderbeu",
-        "time": "",
-        "league": "Superliga",
-        "country": "ALBANIE",
-        "score": {
-            "home": "2",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Dynamo Dresde",
-        "away": "Dusseldorf",
-        "time": "",
-        "league": "2. Bundesliga",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Heidenheim",
-        "away": "Holstein Kiel",
-        "time": "",
-        "league": "2. Bundesliga",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "2",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Ingolstadt",
-        "away": "Karlsruher",
-        "time": "",
-        "league": "2. Bundesliga",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Viktoria Berlin",
-        "away": "Wurzburger Kickers",
-        "time": "",
-        "league": "3. Liga",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Mannheim",
-        "away": "Osnabruck",
-        "time": "",
-        "league": "3. Liga",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "3",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Hamburger SV II",
-        "away": "Lubeck",
-        "time": "",
-        "league": "Regionalliga Nord",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "3",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Hannoverscher SC",
-        "away": "Hildesheim",
-        "time": "",
-        "league": "Regionalliga Nord",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "2",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Holstein Kiel II",
-        "away": "Drochtersen/Assel",
-        "time": "",
-        "league": "Regionalliga Nord",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Luneburger Hansa",
-        "away": "Oberneuland",
-        "time": "",
-        "league": "Regionalliga Nord",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Norderstedt",
-        "away": "SC Weiche-08",
-        "time": "",
-        "league": "Regionalliga Nord",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Teutonia Ottensen",
-        "away": "Altona",
-        "time": "",
-        "league": "Regionalliga Nord",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "5",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "VfB Oldenburg",
-        "away": "Delmenhorst",
-        "time": "",
-        "league": "Regionalliga Nord",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Furstenwalde",
-        "away": "Rathenow",
-        "time": "",
-        "league": "Regionalliga Nordost",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "TB Berlin",
-        "away": "Jena",
-        "time": "",
-        "league": "Regionalliga Nordost",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "4",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Lokomotive Leipzig",
-        "away": "Chemie Leipzig",
-        "time": "",
-        "league": "Regionalliga Nordost",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Cologne II",
-        "away": "Dusseldorf II",
-        "time": "",
-        "league": "Regionalliga West",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Lotte",
-        "away": "Straelen",
-        "time": "",
-        "league": "Regionalliga West",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "FSV Francfort",
-        "away": "Offenbach",
-        "time": "",
-        "league": "Regionalliga Sudwest",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "0",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Bayern Munich F",
-        "away": "Jena F",
-        "time": "",
-        "league": "Bundesliga - Femmes",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "3",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Potsdam F",
-        "away": "Hoffenheim F",
-        "time": "",
-        "league": "Bundesliga - Femmes",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "3",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Bayer Leverkusen F",
-        "away": "Eintracht Frankfurt F",
-        "time": "",
-        "league": "Bundesliga - Femmes",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Wolfsburg F",
-        "away": "SGS Essen F",
-        "time": "",
-        "league": "Bundesliga - Femmes",
-        "country": "ALLEMAGNE",
-        "score": {
-            "home": "5",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Carroi",
-        "away": "UE Engordany",
-        "time": "",
-        "league": "Primera Divisió",
-        "country": "ANDORRE",
-        "score": {
-            "home": "1",
-            "away": "4"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Inter Escaldes",
-        "away": "Ordino",
-        "time": "",
-        "league": "Primera Divisió",
-        "country": "ANDORRE",
-        "score": {
-            "home": "3",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Sant Julia",
-        "away": "Atletic Escaldes",
-        "time": "",
-        "league": "Primera Divisió",
-        "country": "ANDORRE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Derby",
-        "away": "Bournemouth",
-        "time": "",
-        "league": "Championship",
-        "country": "ANGLETERRE",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Al-Hazem",
-        "away": "Al-Ettifaq",
-        "time": "",
-        "league": "Premier League",
-        "country": "ARABIE SAOUDITE",
-        "score": {
-            "home": "0",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Abha",
-        "away": "Al Ahli SC",
-        "time": "",
-        "league": "Premier League",
-        "country": "ARABIE SAOUDITE",
-        "score": {
-            "home": "2",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Al Batin",
-        "away": "Al-Taawon",
-        "time": "",
-        "league": "Premier League",
-        "country": "ARABIE SAOUDITE",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Al-Hilal",
-        "away": "Al-Ittihad FC",
-        "time": "",
-        "league": "Premier League",
-        "country": "ARABIE SAOUDITE",
         "score": {
             "home": "-",
             "away": "-"
         },
-        "Day": "21/11",
-        "Ended": false
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Central Cordoba",
-        "away": "Independiente",
-        "time": "",
+        "home": "Schweinfurt",
+        "away": "Furth II",
+        "time": "19:00",
+        "league": "Regionalliga Bayern",
+        "country": "ALLEMAGNE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Memmingen",
+        "away": "Heimstetten",
+        "time": "19:30",
+        "league": "Regionalliga Bayern",
+        "country": "ALLEMAGNE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Blackpool",
+        "away": "West Brom",
+        "time": "20:45",
+        "league": "Championship",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Coventry",
+        "away": "Birmingham",
+        "time": "20:45",
+        "league": "Championship",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Middlesbrough",
+        "away": "Preston",
+        "time": "20:45",
+        "league": "Championship",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Nottingham",
+        "away": "Luton",
+        "time": "20:45",
+        "league": "Championship",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Reading",
+        "away": "Sheffield Utd",
+        "time": "21:00",
+        "league": "Championship",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Burton",
+        "away": "Accrington",
+        "time": "20:45",
+        "league": "League One",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Cambridge Utd",
+        "away": "Wigan",
+        "time": "20:45",
+        "league": "League One",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Gillingham FC",
+        "away": "Cheltenham",
+        "time": "20:45",
+        "league": "League One",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Ipswich",
+        "away": "Rotherham",
+        "time": "20:45",
+        "league": "League One",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Lincoln",
+        "away": "Portsmouth",
+        "time": "20:45",
+        "league": "League One",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Morecambe",
+        "away": "Charlton",
+        "time": "20:45",
+        "league": "League One",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Oxford Utd",
+        "away": "Fleetwood",
+        "time": "20:45",
+        "league": "League One",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Plymouth",
+        "away": "Wycombe",
+        "time": "20:45",
+        "league": "League One",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Sheffield Wed",
+        "away": "Milton Keynes",
+        "time": "20:45",
+        "league": "League One",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Shrewsbury",
+        "away": "Sunderland",
+        "time": "20:45",
+        "league": "League One",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Wimbledon",
+        "away": "Crewe",
+        "time": "20:45",
+        "league": "League One",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Bolton",
+        "away": "Doncaster",
+        "time": "21:00",
+        "league": "League One",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Carlisle",
+        "away": "Harrogate",
+        "time": "20:45",
+        "league": "League Two",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Colchester",
+        "away": "Exeter",
+        "time": "20:45",
+        "league": "League Two",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Crawley",
+        "away": "Newport",
+        "time": "20:45",
+        "league": "League Two",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Forest Green",
+        "away": "Barrow",
+        "time": "20:45",
+        "league": "League Two",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Northampton",
+        "away": "Oldham",
+        "time": "20:45",
+        "league": "League Two",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Port Vale",
+        "away": "Walsall",
+        "time": "20:45",
+        "league": "League Two",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Rochdale",
+        "away": "Stevenage",
+        "time": "20:45",
+        "league": "League Two",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Salford",
+        "away": "Bristol Rovers",
+        "time": "20:45",
+        "league": "League Two",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Scunthorpe",
+        "away": "Leyton Orient",
+        "time": "20:45",
+        "league": "League Two",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Sutton",
+        "away": "Mansfield",
+        "time": "20:45",
+        "league": "League Two",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Swindon",
+        "away": "Hartlepool",
+        "time": "20:45",
+        "league": "League Two",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Tranmere",
+        "away": "Bradford City",
+        "time": "20:45",
+        "league": "League Two",
+        "country": "ANGLETERRE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Gimnasia L.P.",
+        "away": "Talleres Cordoba",
+        "time": "21:00",
         "league": "Liga Profesional",
         "country": "ARGENTINE",
         "score": {
-            "home": "1",
-            "away": "0"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Arsenal Sarandi",
-        "away": "Newells Old Boys",
-        "time": "",
+        "home": "Huracan",
+        "away": "Patronato",
+        "time": "21:00",
         "league": "Liga Profesional",
         "country": "ARGENTINE",
         "score": {
-            "home": "1",
-            "away": "1"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": false
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Racing Club",
-        "away": "Colon",
+        "home": "Aldosivi",
+        "away": "San Lorenzo",
         "time": "23:15",
         "league": "Liga Profesional",
         "country": "ARGENTINE",
@@ -802,454 +555,38 @@
             "home": "-",
             "away": "-"
         },
-        "Day": "21/11",
+        "Day": "23/11",
         "Ended": "unKnown"
     },
     {
-        "home": "Deportivo Nacional",
-        "away": "Racing Club Aruba",
-        "time": "",
-        "league": "Division di Honor",
-        "country": "ARUBA",
-        "score": {
-            "home": "2",
-            "away": "4"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Bubali",
-        "away": "Dakota",
-        "time": "23:00\nRFS",
-        "league": "Division di Honor",
-        "country": "ARUBA",
+        "home": "Al-Hilal (Sau)",
+        "away": "Pohang (Kor)",
+        "time": "17:00",
+        "league": "Ligue des Champions AFC - Phase Finale",
+        "country": "ASIE",
         "score": {
             "home": "-",
             "away": "-"
         },
-        "Day": "21/11",
+        "Day": "23/11",
         "Ended": "unKnown"
     },
     {
-        "home": "Newcastle Jets",
-        "away": "Central Coast Mariners",
-        "time": "",
-        "league": "A-League",
-        "country": "AUSTRALIE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Macarthur FC",
-        "away": "Wellington Phoenix",
-        "time": "",
-        "league": "A-League",
-        "country": "AUSTRALIE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "A. Klagenfurt",
-        "away": "Austria Vienne",
-        "time": "",
-        "league": "Bundesliga",
-        "country": "AUTRICHE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Tirol",
-        "away": "Wolfsberger",
-        "time": "",
-        "league": "Bundesliga",
-        "country": "AUTRICHE",
-        "score": {
-            "home": "5",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Sturm Graz",
-        "away": "LASK",
-        "time": "",
-        "league": "Bundesliga",
-        "country": "AUTRICHE",
-        "score": {
-            "home": "3",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Lafnitz",
-        "away": "Grazer",
-        "time": "",
-        "league": "2. Liga",
-        "country": "AUTRICHE",
-        "score": {
-            "home": "1",
-            "away": "4"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Gabala",
-        "away": "Sumqayit",
-        "time": "",
-        "league": "Topaz Premier League",
-        "country": "AZERBAÏDJAN",
-        "score": {
-            "home": "2",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Al-Budaiya",
-        "away": "Manama Club",
-        "time": "",
-        "league": "Premier League",
-        "country": "BAHREÏN",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Al-Najma",
-        "away": "Al-Muharraq",
-        "time": "",
-        "league": "Premier League",
-        "country": "BAHREÏN",
-        "score": {
-            "home": "0",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Al-Rifaa",
-        "away": "Al-Hala",
-        "time": "",
-        "league": "Premier League",
-        "country": "BAHREÏN",
-        "score": {
-            "home": "3",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Anderlecht",
-        "away": "Courtrai",
-        "time": "",
-        "league": "Pro League",
-        "country": "BELGIQUE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Saint-Trond",
-        "away": "Antwerp",
-        "time": "",
-        "league": "Pro League",
-        "country": "BELGIQUE",
-        "score": {
-            "home": "2",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Ostende",
-        "away": "Royale Union SG",
-        "time": "",
-        "league": "Pro League",
-        "country": "BELGIQUE",
-        "score": {
-            "home": "1",
-            "away": "7"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Beerschot VA",
-        "away": "Genk",
-        "time": "",
-        "league": "Pro League",
-        "country": "BELGIQUE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Virton",
-        "away": "RWDM",
-        "time": "",
-        "league": "D1B Pro League",
-        "country": "BELGIQUE",
-        "score": {
-            "home": "0",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Deinze",
-        "away": "Lommel SK",
-        "time": "",
-        "league": "D1B Pro League",
-        "country": "BELGIQUE",
-        "score": {
-            "home": "3",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Belshina",
-        "away": "Lida",
-        "time": "",
-        "league": "Pershaya Liga",
-        "country": "BIÉLORUSSIE",
-        "score": {
-            "home": "5",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Dnepr Mogilev",
-        "away": "Lokomotiv Gomel",
-        "time": "",
-        "league": "Pershaya Liga",
-        "country": "BIÉLORUSSIE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "FC Slonim",
-        "away": "Petrikov",
-        "time": "",
-        "league": "Pershaya Liga",
-        "country": "BIÉLORUSSIE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Krumkachy",
-        "away": "Arsenal Dzyarzhynsk",
-        "time": "",
-        "league": "Pershaya Liga",
-        "country": "BIÉLORUSSIE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Naftan",
-        "away": "Orsha",
-        "time": "",
-        "league": "Pershaya Liga",
-        "country": "BIÉLORUSSIE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Volna Pinsk",
-        "away": "Baranovici",
-        "time": "",
-        "league": "Pershaya Liga",
-        "country": "BIÉLORUSSIE",
-        "score": {
-            "home": "2",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Royal Pari",
-        "away": "Independiente Petroleros",
-        "time": "",
+        "home": "Tomayapo",
+        "away": "Nacional Potosi",
+        "time": "01:00",
         "league": "Division Profesional",
         "country": "BOLIVIE",
         "score": {
-            "home": "3",
-            "away": "1"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Real Potosi",
-        "away": "Always Ready",
-        "time": "",
-        "league": "Division Profesional",
-        "country": "BOLIVIE",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Bolivar",
-        "away": "The Strongest",
-        "time": "",
-        "league": "Division Profesional",
-        "country": "BOLIVIE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Posusje",
-        "away": "Leotar",
-        "time": "",
-        "league": "Premier League",
-        "country": "BOSNIE-HERZÉGOVINE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Borac Banja Luka",
-        "away": "Prijedor",
-        "time": "",
-        "league": "Premier League",
-        "country": "BOSNIE-HERZÉGOVINE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Zeljeznicar",
-        "away": "Radnik Bijeljina",
-        "time": "",
-        "league": "Premier League",
-        "country": "BOSNIE-HERZÉGOVINE",
-        "score": {
-            "home": "2",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
         "home": "Atletico GO",
-        "away": "Ceara",
-        "time": "",
-        "league": "Serie A",
-        "country": "BRÉSIL",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Internacional",
-        "away": "Flamengo",
-        "time": "",
-        "league": "Serie A",
-        "country": "BRÉSIL",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Corinthians",
-        "away": "Santos",
-        "time": "",
-        "league": "Serie A",
-        "country": "BRÉSIL",
-        "score": {
-            "home": "2",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Fluminense",
-        "away": "America MG",
-        "time": "",
-        "league": "Serie A",
-        "country": "BRÉSIL",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Bahia",
-        "away": "Cuiaba",
+        "away": "Juventude",
         "time": "23:00",
         "league": "Serie A",
         "country": "BRÉSIL",
@@ -1257,3426 +594,475 @@
             "home": "-",
             "away": "-"
         },
-        "Day": "21/11",
+        "Day": "23/11",
         "Ended": "unKnown"
     },
     {
-        "home": "Brasil de Pelotas",
-        "away": "Botafogo RJ",
-        "time": "",
-        "league": "Serie B",
-        "country": "BRÉSIL",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Coritiba",
-        "away": "CSA",
-        "time": "",
-        "league": "Serie B",
-        "country": "BRÉSIL",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Nautico",
-        "away": "Avai",
-        "time": "23:00",
+        "home": "Guarani",
+        "away": "Goias",
+        "time": "00:00",
         "league": "Serie B",
         "country": "BRÉSIL",
         "score": {
             "home": "-",
             "away": "-"
         },
-        "Day": "21/11",
+        "Day": "23/11",
         "Ended": "unKnown"
     },
     {
-        "home": "CSKA 1948 Sofia",
-        "away": "Ludogorets",
-        "time": "",
-        "league": "Parva liga",
-        "country": "BULGARIE",
+        "home": "Dep. Concepcion",
+        "away": "Limache",
+        "time": "23:00",
+        "league": "Segunda Division",
+        "country": "CHILI",
         "score": {
-            "home": "2",
-            "away": "0"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Lok. Plovdiv",
-        "away": "Lok. Sofia",
-        "time": "",
-        "league": "Parva liga",
-        "country": "BULGARIE",
-        "score": {
-            "home": "2",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Forge",
-        "away": "York Utd",
-        "time": "",
-        "league": "Canadian Premier League - Phase Finale",
-        "country": "CANADA",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Club de Foot Montreal",
-        "away": "Toronto FC",
-        "time": "",
-        "league": "Championship",
-        "country": "CANADA",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Omonia",
-        "away": "Aris",
-        "time": "",
-        "league": "Première Division",
-        "country": "CHYPRE",
-        "score": {
-            "home": "3",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Doxa",
-        "away": "AEL Limassol",
-        "time": "",
-        "league": "Première Division",
-        "country": "CHYPRE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Atl. Nacional",
-        "away": "Millonarios",
-        "time": "",
-        "league": "Primera A - Clôture",
-        "country": "COLOMBIE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Dep. Cali",
-        "away": "Once Caldas",
-        "time": "",
-        "league": "Primera A - Clôture",
-        "country": "COLOMBIE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Envigado",
-        "away": "Huila",
-        "time": "",
-        "league": "Primera A - Clôture",
-        "country": "COLOMBIE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "La Equidad",
-        "away": "Bucaramanga",
-        "time": "",
-        "league": "Primera A - Clôture",
-        "country": "COLOMBIE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Pasto",
-        "away": "Ind. Medellin",
-        "time": "",
-        "league": "Primera A - Clôture",
-        "country": "COLOMBIE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Patriotas",
-        "away": "Jaguares de Cordoba",
-        "time": "",
-        "league": "Primera A - Clôture",
-        "country": "COLOMBIE",
-        "score": {
-            "home": "2",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Pereira",
-        "away": "America De Cali",
-        "time": "",
-        "league": "Primera A - Clôture",
-        "country": "COLOMBIE",
-        "score": {
-            "home": "1",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Petrolera",
-        "away": "Junior",
-        "time": "",
-        "league": "Primera A - Clôture",
-        "country": "COLOMBIE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Santa Fe",
-        "away": "Aguilas",
-        "time": "",
-        "league": "Primera A - Clôture",
-        "country": "COLOMBIE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Tolima",
-        "away": "Quindio",
-        "time": "",
-        "league": "Primera A - Clôture",
-        "country": "COLOMBIE",
-        "score": {
-            "home": "2",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Suwon City",
-        "away": "Jeonbuk",
-        "time": "",
-        "league": "K League 1 - Groupe Championnat",
-        "country": "CORÉE DU SUD",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Daegu",
-        "away": "Suwon",
-        "time": "",
-        "league": "K League 1 - Groupe Championnat",
-        "country": "CORÉE DU SUD",
-        "score": {
-            "home": "2",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Ulsan Hyundai",
-        "away": "Jeju",
-        "time": "",
-        "league": "K League 1 - Groupe Championnat",
-        "country": "CORÉE DU SUD",
-        "score": {
-            "home": "3",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "San Carlos",
-        "away": "Santos DG",
-        "time": "",
-        "league": "Primera División - Ouverture",
-        "country": "COSTA RICA",
-        "score": {
-            "home": "2",
-            "away": "4"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Saprissa",
-        "away": "Sporting San Jose",
-        "time": "",
-        "league": "Primera División - Ouverture",
-        "country": "COSTA RICA",
-        "score": {
-            "home": "5",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Grecia",
-        "away": "Guadalupe",
-        "time": "",
-        "league": "Primera División - Ouverture",
-        "country": "COSTA RICA",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "ADR Jicaral",
-        "away": "Alajuelense",
-        "time": "",
-        "league": "Primera División - Ouverture",
-        "country": "COSTA RICA",
-        "score": {
-            "home": "0",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Gorica",
-        "away": "Lok. Zagreb",
-        "time": "",
-        "league": "1. HNL",
-        "country": "CROATIE",
-        "score": {
-            "home": "2",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Rijeka",
-        "away": "Hajduk Split",
-        "time": "",
-        "league": "1. HNL",
-        "country": "CROATIE",
-        "score": {
-            "home": "2",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Nordsjaelland",
-        "away": "Silkeborg",
-        "time": "",
-        "league": "Superliga",
-        "country": "DANEMARK",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Randers",
-        "away": "Vejle",
-        "time": "",
-        "league": "Superliga",
-        "country": "DANEMARK",
-        "score": {
-            "home": "4",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "FC Copenhague",
-        "away": "Aarhus",
-        "time": "",
-        "league": "Superliga",
-        "country": "DANEMARK",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Midtjylland",
-        "away": "Brondby",
-        "time": "",
-        "league": "Superliga",
-        "country": "DANEMARK",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Fredericia",
-        "away": "Nykobing",
-        "time": "",
-        "league": "1st Division",
-        "country": "DANEMARK",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Lyngby",
-        "away": "Vendsyssel",
-        "time": "",
-        "league": "1st Division",
-        "country": "DANEMARK",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Rangers",
-        "away": "Hibernian",
-        "time": "",
-        "league": "League Cup - Phase Finale",
+        "home": "Elgin",
+        "away": "Edinburgh City",
+        "time": "20:45",
+        "league": "League Two",
         "country": "ECOSSE",
         "score": {
-            "home": "1",
-            "away": "3"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Pharco",
-        "away": "Ceramica Cleopatra",
-        "time": "",
+        "home": "Arab Contractors",
+        "away": "Ismaily",
+        "time": "16:30",
         "league": "Premier League",
         "country": "EGYPTE",
         "score": {
-            "home": "1",
-            "away": "0"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Misr Elmaqasah",
-        "away": "Al Ittihad",
-        "time": "",
+        "home": "Future FC",
+        "away": "Enppi",
+        "time": "19:00",
         "league": "Premier League",
         "country": "EGYPTE",
         "score": {
-            "home": "0",
-            "away": "0"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Al Dhafra",
-        "away": "Al Wasl",
-        "time": "",
-        "league": "UAE League",
-        "country": "EMIRATS ARABES UNIS",
-        "score": {
-            "home": "2",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Al-Wahda",
-        "away": "Ajman",
-        "time": "",
-        "league": "UAE League",
-        "country": "EMIRATS ARABES UNIS",
-        "score": {
-            "home": "3",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Al Nasr",
-        "away": "Al-Ahli Dubai",
-        "time": "",
-        "league": "UAE League",
-        "country": "EMIRATS ARABES UNIS",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Barcelone SC",
-        "away": "U. Catolica",
-        "time": "",
+        "home": "Tecnico U.",
+        "away": "Dep. Cuenca",
+        "time": "01:00",
         "league": "Liga Pro - 2ème Tour",
         "country": "EQUATEUR",
         "score": {
-            "home": "1",
-            "away": "1"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Ind. del Valle",
-        "away": "Emelec",
-        "time": "",
-        "league": "Liga Pro - 2ème Tour",
-        "country": "EQUATEUR",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Nueve de Octubre",
-        "away": "Delfin",
-        "time": "",
-        "league": "Liga Pro - 2ème Tour",
-        "country": "EQUATEUR",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Manta",
-        "away": "Olmedo",
-        "time": "",
-        "league": "Liga Pro - 2ème Tour",
-        "country": "EQUATEUR",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Mushuc Runa",
-        "away": "Guayaquil City",
-        "time": "",
-        "league": "Liga Pro - 2ème Tour",
-        "country": "EQUATEUR",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Orense",
-        "away": "LDU Quito",
-        "time": "",
-        "league": "Liga Pro - 2ème Tour",
-        "country": "EQUATEUR",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Cartagena",
-        "away": "Burgos CF",
-        "time": "",
-        "league": "LaLiga2",
-        "country": "ESPAGNE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Lugo",
-        "away": "Eibar",
-        "time": "",
-        "league": "LaLiga2",
-        "country": "ESPAGNE",
-        "score": {
-            "home": "2",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Huesca",
-        "away": "UD Ibiza",
-        "time": "",
-        "league": "LaLiga2",
-        "country": "ESPAGNE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Tenerife",
-        "away": "Alcorcon",
-        "time": "",
-        "league": "LaLiga2",
-        "country": "ESPAGNE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Ponferradina",
-        "away": "Gijon",
-        "time": "",
-        "league": "LaLiga2",
-        "country": "ESPAGNE",
-        "score": {
-            "home": "4",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Ath. Bilbao B",
-        "away": "CF Talavera",
-        "time": "",
-        "league": "Primera RFEF - Group 1",
-        "country": "ESPAGNE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Rayo Majadahonda",
-        "away": "La Corogne",
-        "time": "",
-        "league": "Primera RFEF - Group 1",
-        "country": "ESPAGNE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Tudelano",
-        "away": "UD Logrones",
-        "time": "",
-        "league": "Primera RFEF - Group 1",
-        "country": "ESPAGNE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "SD Logrones",
-        "away": "R. Union",
-        "time": "",
-        "league": "Primera RFEF - Group 1",
-        "country": "ESPAGNE",
-        "score": {
-            "home": "0",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Zamora",
-        "away": "Racing Santander",
-        "time": "",
-        "league": "Primera RFEF - Group 1",
-        "country": "ESPAGNE",
-        "score": {
-            "home": "0",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Baleares",
-        "away": "UCAM Murcia",
-        "time": "",
-        "league": "Primera RFEF - Group 2",
-        "country": "ESPAGNE",
-        "score": {
-            "home": "3",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Cornella",
-        "away": "FC Séville B",
-        "time": "",
-        "league": "Primera RFEF - Group 2",
-        "country": "ESPAGNE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Villarreal B",
-        "away": "Castellon",
-        "time": "",
-        "league": "Primera RFEF - Group 2",
+        "home": "Cordoba",
+        "away": "Guijuelo",
+        "time": "18:00",
+        "league": "Copa Federacion",
         "country": "ESPAGNE",
         "score": {
             "home": "-",
             "away": "-"
         },
-        "Day": "21/11",
-        "Ended": false
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Albacete",
-        "away": "Barcelone B",
-        "time": "",
-        "league": "Primera RFEF - Group 2",
-        "country": "ESPAGNE",
+        "home": "Suède -17",
+        "away": "Lettonie -17",
+        "time": "18:00",
+        "league": "Euro U17 - Qualification - 1er Tour",
+        "country": "EUROPE",
         "score": {
-            "home": "2",
-            "away": "0"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Algeciras",
-        "away": "Gimnastic",
-        "time": "",
-        "league": "Primera RFEF - Group 2",
-        "country": "ESPAGNE",
+        "home": "FC Séville -19",
+        "away": "Wolfsburg -19",
+        "time": "14:00",
+        "league": "UEFA Youth League - Phase de groupe",
+        "country": "EUROPE",
         "score": {
-            "home": "1",
-            "away": "0"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Tammeka",
-        "away": "Parnu JK Vaprus",
-        "time": "",
-        "league": "Meistriliiga - Groupe Relégation",
-        "country": "ESTONIE",
+        "home": "Villarreal -19",
+        "away": "Manchester Utd -19",
+        "time": "14:00",
+        "league": "UEFA Youth League - Phase de groupe",
+        "country": "EUROPE",
         "score": {
-            "home": "2",
-            "away": "3"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Levadia",
-        "away": "Paide",
-        "time": "",
-        "league": "Meistriliiga - Groupe Championnat",
-        "country": "ESTONIE",
+        "home": "Young Boys -19",
+        "away": "Atalanta -19",
+        "time": "14:00",
+        "league": "UEFA Youth League - Phase de groupe",
+        "country": "EUROPE",
         "score": {
-            "home": "1",
-            "away": "0"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Issy F",
-        "away": "Lyon F",
-        "time": "",
-        "league": "Division 1 Féminine",
-        "country": "FRANCE",
+        "home": "Lille -19",
+        "away": "Red Bull Salzbourg -19",
+        "time": "14:30",
+        "league": "UEFA Youth League - Phase de groupe",
+        "country": "EUROPE",
         "score": {
-            "home": "0",
-            "away": "4"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Paris SG F",
-        "away": "Reims F",
-        "time": "",
-        "league": "Division 1 Féminine",
-        "country": "FRANCE",
+        "home": "Din. Kiev -19",
+        "away": "Bayern -19",
+        "time": "15:00",
+        "league": "UEFA Youth League - Phase de groupe",
+        "country": "EUROPE",
         "score": {
-            "home": "7",
-            "away": "0"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Torpedo Kutaisi",
-        "away": "Samtredia",
-        "time": "",
-        "league": "Crystalbet Erovnuli Liga",
-        "country": "GÉORGIE",
+        "home": "Malmö -19",
+        "away": "Zenit -19",
+        "time": "15:00",
+        "league": "UEFA Youth League - Phase de groupe",
+        "country": "EUROPE",
         "score": {
-            "home": "4",
-            "away": "1"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Aduana Stars",
-        "away": "Tamale",
-        "time": "",
-        "league": "Premier League",
-        "country": "GHANA",
+        "home": "Barcelone -19",
+        "away": "Benfica -19",
+        "time": "16:00",
+        "league": "UEFA Youth League - Phase de groupe",
+        "country": "EUROPE",
         "score": {
-            "home": "5",
-            "away": "1"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Ashanti Gold",
-        "away": "Hearts Of Oak",
-        "time": "",
-        "league": "Premier League",
-        "country": "GHANA",
+        "home": "Chelsea -19",
+        "away": "Juventus -19",
+        "time": "16:00",
+        "league": "UEFA Youth League - Phase de groupe",
+        "country": "EUROPE",
         "score": {
-            "home": "2",
-            "away": "0"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Elmina Sharks",
-        "away": "Bibiani Gold Stars",
-        "time": "",
-        "league": "Premier League",
-        "country": "GHANA",
+        "home": "Midtjylland -19",
+        "away": "Trabzonspor -19",
+        "time": "14:00",
+        "league": "UEFA Youth League - Vainqueurs - Phase Finale",
+        "country": "EUROPE",
         "score": {
-            "home": "2",
-            "away": "1"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Great Olympics",
-        "away": "Dreams",
-        "time": "",
-        "league": "Premier League",
-        "country": "GHANA",
+        "home": "Alkmaar -19",
+        "away": "Angers -19",
+        "time": "16:00",
+        "league": "UEFA Youth League - Vainqueurs - Phase Finale",
+        "country": "EUROPE",
         "score": {
-            "home": "3",
-            "away": "3"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "WAFA",
-        "away": "Legon Cities",
-        "time": "",
-        "league": "Premier League",
-        "country": "GHANA",
+        "home": "Genk -19",
+        "away": "MTK Budapest -19",
+        "time": "18:00",
+        "league": "UEFA Youth League - Vainqueurs - Phase Finale",
+        "country": "EUROPE",
         "score": {
-            "home": "2",
-            "away": "2"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Europa FC",
-        "away": "College 1975 FC",
-        "time": "",
-        "league": "National League",
-        "country": "GIBRALTAR",
+        "home": "Empoli -19",
+        "away": "Étoile Rouge Belgrade -19",
+        "time": "19:00",
+        "league": "UEFA Youth League - Vainqueurs - Phase Finale",
+        "country": "EUROPE",
         "score": {
-            "home": "2",
-            "away": "0"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": true
+        "Day": "23/11",
+        "Ended": "unKnown"
     },
     {
-        "home": "Glacis United",
-        "away": "Lincoln",
-        "time": "",
-        "league": "National League",
-        "country": "GIBRALTAR",
-        "score": {
-            "home": "2",
-            "away": "4"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Panetolikos",
-        "away": "Smyrnis",
-        "time": "",
-        "league": "Super League",
-        "country": "GRÈCE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "AEK",
-        "away": "Olympiakos",
-        "time": "",
-        "league": "Super League",
-        "country": "GRÈCE",
-        "score": {
-            "home": "2",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Atromitos",
-        "away": "PAOK",
-        "time": "",
-        "league": "Super League",
-        "country": "GRÈCE",
-        "score": {
-            "home": "2",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Apollon Pontou",
-        "away": "Niki Volos",
-        "time": "",
-        "league": "Super League 2",
-        "country": "GRÈCE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Karditsa",
-        "away": "Almopos",
-        "time": "",
-        "league": "Super League 2",
-        "country": "GRÈCE",
-        "score": {
-            "home": "4",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Pierikos",
-        "away": "Kavala",
-        "time": "",
-        "league": "Super League 2",
-        "country": "GRÈCE",
-        "score": {
-            "home": "7",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Rodos",
-        "away": "Diagoras",
-        "time": "",
-        "league": "Super League 2",
-        "country": "GRÈCE",
-        "score": {
-            "home": "3",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Veria",
-        "away": "O. Volos",
-        "time": "",
-        "league": "Super League 2",
-        "country": "GRÈCE",
-        "score": {
-            "home": "3",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Xanthi",
-        "away": "Thesprotos",
-        "time": "",
-        "league": "Super League 2",
-        "country": "GRÈCE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Xelaju",
-        "away": "Nueva Concepcion",
-        "time": "",
-        "league": "Liga Nacional - Ouverture",
-        "country": "GUATEMALA",
-        "score": {
-            "home": "2",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Malacateco",
-        "away": "Solola",
-        "time": "",
-        "league": "Liga Nacional - Ouverture",
-        "country": "GUATEMALA",
-        "score": {
-            "home": "2",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Motagua",
-        "away": "UPNFM",
-        "time": "",
-        "league": "Liga Nacional - Ouverture - Phase Finale",
-        "country": "HONDURAS",
-        "score": {
-            "home": "3",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Olimpia",
-        "away": "Marathon",
-        "time": "",
-        "league": "Liga Nacional - Ouverture - Phase Finale",
-        "country": "HONDURAS",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "HK -23",
-        "away": "Hong Kong FC",
-        "time": "",
-        "league": "Premier League",
-        "country": "HONG KONG",
-        "score": {
-            "home": "2",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Lee Man Warriors",
-        "away": "Kitchee",
-        "time": "",
-        "league": "Premier League",
-        "country": "HONG KONG",
-        "score": {
-            "home": "2",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Ferencvaros",
-        "away": "MOL Fehervar",
-        "time": "",
-        "league": "OTP Bank Liga",
-        "country": "HONGRIE",
-        "score": {
-            "home": "3",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Honved",
-        "away": "MTK Budapest",
-        "time": "",
-        "league": "OTP Bank Liga",
-        "country": "HONGRIE",
-        "score": {
-            "home": "3",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Vasas",
-        "away": "Haladas",
-        "time": "",
-        "league": "Merkantil Bank Liga",
-        "country": "HONGRIE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Győr",
-        "away": "Bekescsaba",
-        "time": "",
-        "league": "Merkantil Bank Liga",
-        "country": "HONGRIE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Kecskemeti",
-        "away": "Dorogi",
-        "time": "",
-        "league": "Merkantil Bank Liga",
-        "country": "HONGRIE",
-        "score": {
-            "home": "2",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Nyiregyhaza",
-        "away": "Budafoki",
-        "time": "",
-        "league": "Merkantil Bank Liga",
-        "country": "HONGRIE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Szolnoki",
-        "away": "Szeged",
-        "time": "",
-        "league": "Merkantil Bank Liga",
-        "country": "HONGRIE",
-        "score": {
-            "home": "0",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Ajka",
-        "away": "Soroksar",
-        "time": "",
-        "league": "Merkantil Bank Liga",
-        "country": "HONGRIE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Csakvari",
-        "away": "Szentlorinc",
-        "time": "",
-        "league": "Merkantil Bank Liga",
-        "country": "HONGRIE",
-        "score": {
-            "home": "2",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "DVTK",
-        "away": "Budaorsi",
-        "time": "",
-        "league": "Merkantil Bank Liga",
-        "country": "HONGRIE",
-        "score": {
-            "home": "5",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Pecsi",
-        "away": "III. Keruleti TVE",
-        "time": "",
-        "league": "Merkantil Bank Liga",
-        "country": "HONGRIE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Siofok",
-        "away": "Tiszakecske",
-        "time": "",
-        "league": "Merkantil Bank Liga",
-        "country": "HONGRIE",
-        "score": {
-            "home": "4",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "East Bengal",
-        "away": "Jamshedpur",
-        "time": "",
+        "home": "Hyderabad",
+        "away": "Chennaiyin",
+        "time": "15:00",
         "league": "ISL",
         "country": "INDE",
         "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Parme",
-        "away": "Cosenza",
-        "time": "",
-        "league": "Serie B",
-        "country": "ITALIE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Reggina",
-        "away": "Cremonese",
-        "time": "",
-        "league": "Serie B",
-        "country": "ITALIE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Monza",
-        "away": "Como",
-        "time": "",
-        "league": "Serie B",
-        "country": "ITALIE",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Pisa",
-        "away": "Benevento",
-        "time": "",
-        "league": "Serie B",
-        "country": "ITALIE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Giana Erminio",
-        "away": "Renate",
-        "time": "",
-        "league": "Serie C - Groupe A",
-        "country": "ITALIE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Pergolettese",
-        "away": "Pro Vercelli",
-        "time": "",
-        "league": "Serie C - Groupe A",
-        "country": "ITALIE",
-        "score": {
-            "home": "4",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Piacenza",
-        "away": "Padova",
-        "time": "",
-        "league": "Serie C - Groupe A",
-        "country": "ITALIE",
-        "score": {
-            "home": "1",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Pro Sesto",
-        "away": "AlbinoLeffe",
-        "time": "",
-        "league": "Serie C - Groupe A",
-        "country": "ITALIE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Sudtirol",
-        "away": "FeralpiSalo",
-        "time": "",
-        "league": "Serie C - Groupe A",
-        "country": "ITALIE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Trento",
-        "away": "Lecco",
-        "time": "",
-        "league": "Serie C - Groupe A",
-        "country": "ITALIE",
-        "score": {
-            "home": "3",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Virtus Verona",
-        "away": "Mantova",
-        "time": "",
-        "league": "Serie C - Groupe A",
-        "country": "ITALIE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Vis Pesaro",
-        "away": "Carrarese",
-        "time": "",
-        "league": "Serie C - Groupe B",
-        "country": "ITALIE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Viterbese",
-        "away": "Gubbio",
-        "time": "",
-        "league": "Serie C - Groupe B",
-        "country": "ITALIE",
-        "score": {
-            "home": "2",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Cesena",
-        "away": "Fermana",
-        "time": "",
-        "league": "Serie C - Groupe B",
-        "country": "ITALIE",
-        "score": {
-            "home": "4",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Grosseto",
-        "away": "Montevarchi",
-        "time": "",
-        "league": "Serie C - Groupe B",
-        "country": "ITALIE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Imolese",
-        "away": "Reggiana",
-        "time": "",
-        "league": "Serie C - Groupe B",
-        "country": "ITALIE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Lucchese",
-        "away": "Siena",
-        "time": "",
-        "league": "Serie C - Groupe B",
-        "country": "ITALIE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Pistoiese",
-        "away": "Entella",
-        "time": "",
-        "league": "Serie C - Groupe B",
-        "country": "ITALIE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Pontedera",
-        "away": "Pescara",
-        "time": "",
-        "league": "Serie C - Groupe B",
-        "country": "ITALIE",
-        "score": {
-            "home": "2",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Catanzaro",
-        "away": "Juve Stabia",
-        "time": "",
-        "league": "Serie C - Groupe C",
-        "country": "ITALIE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Taranto",
-        "away": "Catania",
-        "time": "",
-        "league": "Serie C - Groupe C",
-        "country": "ITALIE",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Virtus Francavilla",
-        "away": "Turris",
-        "time": "",
-        "league": "Serie C - Groupe C",
-        "country": "ITALIE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Campobasso",
-        "away": "Foggia",
-        "time": "",
-        "league": "Serie C - Groupe C",
-        "country": "ITALIE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Fidelis Andria",
-        "away": "Bari",
-        "time": "",
-        "league": "Serie C - Groupe C",
-        "country": "ITALIE",
-        "score": {
-            "home": "0",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Potenza",
-        "away": "Monopoli",
-        "time": "",
-        "league": "Serie C - Groupe C",
-        "country": "ITALIE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Blaublitz",
-        "away": "Kofu",
-        "time": "",
-        "league": "J2 League",
-        "country": "JAPON",
-        "score": {
-            "home": "0",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Chiba",
-        "away": "Kitakyushu",
-        "time": "",
-        "league": "J2 League",
-        "country": "JAPON",
-        "score": {
-            "home": "2",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Ehime",
-        "away": "Sagamihara",
-        "time": "",
-        "league": "J2 League",
-        "country": "JAPON",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Kusatsu",
-        "away": "Albirex Niigata",
-        "time": "",
-        "league": "J2 League",
-        "country": "JAPON",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Omiya Ardija",
-        "away": "Mito",
-        "time": "",
-        "league": "J2 League",
-        "country": "JAPON",
-        "score": {
-            "home": "1",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Tochigi",
-        "away": "Kanazawa",
-        "time": "",
-        "league": "J2 League",
-        "country": "JAPON",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Verdy",
-        "away": "Ryukyu",
-        "time": "",
-        "league": "J2 League",
-        "country": "JAPON",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Yamaga",
-        "away": "Renofa Yamaguchi",
-        "time": "",
-        "league": "J2 League",
-        "country": "JAPON",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Yamagata",
-        "away": "Machida",
-        "time": "",
-        "league": "J2 League",
-        "country": "JAPON",
-        "score": {
-            "home": "3",
-            "away": "5"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "FK Panevezys",
-        "away": "Nevezis Kedainiai",
-        "time": "",
-        "league": "A Lyga",
-        "country": "LITUANIE",
-        "score": {
-            "home": "3",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Benfica",
-        "away": "Rodange",
-        "time": "",
-        "league": "National Division",
-        "country": "LUXEMBOURG",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Dudelange",
-        "away": "UNA Strassen",
-        "time": "",
-        "league": "National Division",
-        "country": "LUXEMBOURG",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Hostert",
-        "away": "Victoria Rosport",
-        "time": "",
-        "league": "National Division",
-        "country": "LUXEMBOURG",
-        "score": {
-            "home": "1",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Jeunesse Esch",
-        "away": "Fola",
-        "time": "",
-        "league": "National Division",
-        "country": "LUXEMBOURG",
-        "score": {
-            "home": "3",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Niedercorn",
-        "away": "Mondorf",
-        "time": "",
-        "league": "National Division",
-        "country": "LUXEMBOURG",
-        "score": {
-            "home": "3",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Racing Luxembourg",
-        "away": "Differdange",
-        "time": "",
-        "league": "National Division",
-        "country": "LUXEMBOURG",
-        "score": {
-            "home": "3",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Union Titus Petange",
-        "away": "Ettelbruck",
-        "time": "",
-        "league": "National Division",
-        "country": "LUXEMBOURG",
-        "score": {
-            "home": "4",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Wiltz",
-        "away": "Hesperange",
-        "time": "",
-        "league": "National Division",
-        "country": "LUXEMBOURG",
-        "score": {
-            "home": "2",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Akademija Pandev",
-        "away": "Tikves",
-        "time": "",
-        "league": "1. MFL",
-        "country": "MACÉDOINE DU NORD",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Borec",
-        "away": "Renova",
-        "time": "",
-        "league": "1. MFL",
-        "country": "MACÉDOINE DU NORD",
-        "score": {
-            "home": "1",
-            "away": "4"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Shkendija",
-        "away": "Bregalnica",
-        "time": "",
-        "league": "1. MFL",
-        "country": "MACÉDOINE DU NORD",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Shkupi",
-        "away": "Pelister",
-        "time": "",
-        "league": "1. MFL",
-        "country": "MACÉDOINE DU NORD",
-        "score": {
-            "home": "5",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Struga",
-        "away": "Rabotnicki",
-        "time": "",
-        "league": "1. MFL",
-        "country": "MACÉDOINE DU NORD",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Santa Lucia",
-        "away": "Birkirkara",
-        "time": "",
-        "league": "Premier League",
-        "country": "MALTE",
-        "score": {
-            "home": "2",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Sirens",
-        "away": "Balzan",
-        "time": "",
-        "league": "Premier League",
-        "country": "MALTE",
-        "score": {
-            "home": "1",
-            "away": "6"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Hibernians",
-        "away": "Hamrun",
-        "time": "",
-        "league": "Premier League",
-        "country": "MALTE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Mouloudia Oujda",
-        "away": "Difaa El Jadidi",
-        "time": "",
-        "league": "Botola Pro",
-        "country": "MAROC",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Khouribga",
-        "away": "Youssoufia Berrechid",
-        "time": "",
-        "league": "Botola Pro",
-        "country": "MAROC",
-        "score": {
-            "home": "3",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Tanger",
-        "away": "Rapide Oued Zem",
-        "time": "",
-        "league": "Botola Pro",
-        "country": "MAROC",
-        "score": {
-            "home": "3",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Santos Laguna",
-        "away": "Atl. San Luis",
-        "time": "",
-        "league": "Liga MX - Ouverture - Phase Finale",
-        "country": "MEXIQUE",
-        "score": {
-            "home": "2",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Puebla",
-        "away": "Guadalajara",
-        "time": "",
-        "league": "Liga MX - Ouverture - Phase Finale",
-        "country": "MEXIQUE",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Atlante",
-        "away": "Dorados",
-        "time": "",
-        "league": "Liga de Expansion MX - Ouverture",
-        "country": "MEXIQUE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Bodo/Glimt",
-        "away": "Lilleström",
-        "time": "",
-        "league": "Eliteserien",
-        "country": "NORVÈGE",
-        "score": {
-            "home": "2",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Sandefjord",
-        "away": "Brann",
-        "time": "",
-        "league": "Eliteserien",
-        "country": "NORVÈGE",
-        "score": {
-            "home": "2",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Sarpsborg 08",
-        "away": "Odd",
-        "time": "",
-        "league": "Eliteserien",
-        "country": "NORVÈGE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Stabaek",
-        "away": "Kristiansund",
-        "time": "",
-        "league": "Eliteserien",
-        "country": "NORVÈGE",
-        "score": {
-            "home": "3",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Vålerenga",
-        "away": "Tromsø",
-        "time": "",
-        "league": "Eliteserien",
-        "country": "NORVÈGE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Molde",
-        "away": "Rosenborg",
-        "time": "",
-        "league": "Eliteserien",
-        "country": "NORVÈGE",
-        "score": {
-            "home": "4",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Andijan",
-        "away": "Navbahor Namangan",
-        "time": "",
-        "league": "Super League",
-        "country": "OUZBÉKISTAN",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Mashal Muborak",
-        "away": "Qizilqum",
-        "time": "",
-        "league": "Super League",
-        "country": "OUZBÉKISTAN",
-        "score": {
-            "home": "2",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Metallurg Bekabad",
-        "away": "Turon",
-        "time": "",
-        "league": "Super League",
-        "country": "OUZBÉKISTAN",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Sol De America",
-        "away": "Olimpia Asuncion",
-        "time": "",
-        "league": "Primera Division - Clôture",
-        "country": "PARAGUAY",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Aberystwyth F",
-        "away": "Pontypridd F",
-        "time": "",
-        "league": "Premier Women",
-        "country": "PAYS DE GALLES",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Barry F",
-        "away": "Port Talbot F",
-        "time": "",
-        "league": "Premier Women",
-        "country": "PAYS DE GALLES",
-        "score": {
-            "home": "1",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Swansea F",
-        "away": "Cardiff City F",
-        "time": "",
-        "league": "Premier Women",
-        "country": "PAYS DE GALLES",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "TNS F",
-        "away": "Cardiff Met. F",
-        "time": "",
-        "league": "Premier Women",
-        "country": "PAYS DE GALLES",
-        "score": {
-            "home": "2",
-            "away": "6"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "A. Lima",
-        "away": "Sporting Cristal",
-        "time": "",
-        "league": "Liga 1 - Phase Finale",
-        "country": "PÉROU",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Termalica B-B.",
-        "away": "Leczna",
-        "time": "",
-        "league": "Ekstraklasa",
-        "country": "POLOGNE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Pogon Szczecin",
-        "away": "Slask",
-        "time": "",
-        "league": "Ekstraklasa",
-        "country": "POLOGNE",
-        "score": {
-            "home": "2",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Gornik Z.",
-        "away": "Legia",
-        "time": "",
-        "league": "Ekstraklasa",
-        "country": "POLOGNE",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "LKS Lodz",
-        "away": "Tychy",
-        "time": "",
-        "league": "Division 1",
-        "country": "POLOGNE",
-        "score": {
-            "home": "2",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Chrobry Glogow",
-        "away": "Stomil Olsztyn",
-        "time": "",
-        "league": "Division 1",
-        "country": "POLOGNE",
-        "score": {
-            "home": "2",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Lech 2",
-        "away": "Stezyca",
-        "time": "",
-        "league": "Division 2",
-        "country": "POLOGNE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Academica",
-        "away": "FC Porto B",
-        "time": "",
-        "league": "Liga Portugal 2",
-        "country": "PORTUGAL",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Serpa",
-        "away": "Estoril",
-        "time": "",
-        "league": "Coupe du Portugal",
-        "country": "PORTUGAL",
-        "score": {
-            "home": "0",
-            "away": "5"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Caldas",
-        "away": "Belenenses",
-        "time": "",
-        "league": "Coupe du Portugal",
-        "country": "PORTUGAL",
-        "score": {
-            "home": "3",
-            "away": "5"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Paredes",
-        "away": "Torreense",
-        "time": "",
-        "league": "Coupe du Portugal",
-        "country": "PORTUGAL",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Vilafranquense",
-        "away": "Mafra",
-        "time": "",
-        "league": "Coupe du Portugal",
-        "country": "PORTUGAL",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Moreirense",
-        "away": "Guimaraes",
-        "time": "",
-        "league": "Coupe du Portugal",
-        "country": "PORTUGAL",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Karvina",
-        "away": "Liberec",
-        "time": "",
-        "league": "1. Liga",
-        "country": "RÉPUBLIQUE TCHÈQUE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Slovacko",
-        "away": "Sparta Prague",
-        "time": "",
-        "league": "1. Liga",
-        "country": "RÉPUBLIQUE TCHÈQUE",
-        "score": {
-            "home": "4",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Teplice",
-        "away": "Pardubice",
-        "time": "",
-        "league": "1. Liga",
-        "country": "RÉPUBLIQUE TCHÈQUE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Slavia Prague",
-        "away": "Jablonec",
-        "time": "",
-        "league": "1. Liga",
-        "country": "RÉPUBLIQUE TCHÈQUE",
-        "score": {
-            "home": "5",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Zizkov",
-        "away": "Mas Taborsko",
-        "time": "",
-        "league": "FNL",
-        "country": "RÉPUBLIQUE TCHÈQUE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Sparta Prague B",
-        "away": "Lisen",
-        "time": "",
-        "league": "FNL",
-        "country": "RÉPUBLIQUE TCHÈQUE",
-        "score": {
-            "home": "2",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Varnsdorf",
-        "away": "Prostejov",
-        "time": "",
-        "league": "FNL",
-        "country": "RÉPUBLIQUE TCHÈQUE",
-        "score": {
-            "home": "3",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Vlasim",
-        "away": "Dukla Prague",
-        "time": "",
-        "league": "FNL",
-        "country": "RÉPUBLIQUE TCHÈQUE",
-        "score": {
-            "home": "2",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Brno",
-        "away": "Chrudim",
-        "time": "",
-        "league": "FNL",
-        "country": "RÉPUBLIQUE TCHÈQUE",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "FC Arges",
-        "away": "Univ. Craiova",
-        "time": "",
-        "league": "Liga 1",
-        "country": "ROUMANIE",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "FCSB",
-        "away": "Botosani",
-        "time": "",
-        "league": "Liga 1",
-        "country": "ROUMANIE",
-        "score": {
-            "home": "3",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "CSKA Moscou",
-        "away": "Khimki",
-        "time": "",
-        "league": "Premier League",
-        "country": "RUSSIE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "FK Rostov",
-        "away": "Ufa",
-        "time": "",
-        "league": "Premier League",
-        "country": "RUSSIE",
-        "score": {
-            "home": "2",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Din. Moscou",
-        "away": "Arsenal Tula",
-        "time": "",
-        "league": "Premier League",
-        "country": "RUSSIE",
-        "score": {
-            "home": "5",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Sochi",
-        "away": "Kazan",
-        "time": "",
-        "league": "Premier League",
-        "country": "RUSSIE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Akron Togliatti",
-        "away": "Tomsk",
-        "time": "",
-        "league": "FNL",
-        "country": "RUSSIE",
-        "score": {
-            "home": "3",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Tekstilshtik",
-        "away": "Kuban",
-        "time": "",
-        "league": "FNL",
-        "country": "RUSSIE",
-        "score": {
-            "home": "1",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Torpedo Moscow",
-        "away": "SKA Khabarovsk",
-        "time": "",
-        "league": "FNL",
-        "country": "RUSSIE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Veles Moscow",
-        "away": "Orenburg",
-        "time": "",
-        "league": "FNL",
-        "country": "RUSSIE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Volgar-Astrakhan",
-        "away": "Krasnodar 2",
-        "time": "",
-        "league": "FNL",
-        "country": "RUSSIE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "M. Lipetsk",
-        "away": "Kamaz",
-        "time": "",
-        "league": "FNL",
-        "country": "RUSSIE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "F. Voronezh",
-        "away": "Neftekhimik",
-        "time": "",
-        "league": "FNL",
-        "country": "RUSSIE",
-        "score": {
-            "home": "3",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Alania Vladikavkaz",
-        "away": "Sp. Moscou 2",
-        "time": "",
-        "league": "FNL",
-        "country": "RUSSIE",
-        "score": {
-            "home": "2",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Baltika",
-        "away": "R. Volgograd",
-        "time": "",
-        "league": "FNL",
-        "country": "RUSSIE",
-        "score": {
-            "home": "2",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Olimp-Dolgoprudny",
-        "away": "Yenisey",
-        "time": "",
-        "league": "FNL",
-        "country": "RUSSIE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Mladost",
-        "away": "Étoile Rouge Belgrade",
-        "time": "",
-        "league": "Super Liga",
-        "country": "SERBIE",
-        "score": {
-            "home": "1",
-            "away": "5"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Partizan Belgrade",
-        "away": "Vojvodina",
-        "time": "",
-        "league": "Super Liga",
-        "country": "SERBIE",
-        "score": {
-            "home": "4",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Sp. Subotica",
-        "away": "Radnicki 1923",
-        "time": "",
-        "league": "Super Liga",
-        "country": "SERBIE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Michalovce",
-        "away": "Slovan Bratislava",
-        "time": "",
-        "league": "Fortuna liga",
-        "country": "SLOVAQUIE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Tabor Sezana",
-        "away": "Bravo",
-        "time": "",
-        "league": "Prva Liga",
-        "country": "SLOVÉNIE",
-        "score": {
-            "home": "0",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Maribor",
-        "away": "Aluminij",
-        "time": "",
-        "league": "Prva Liga",
-        "country": "SLOVÉNIE",
-        "score": {
-            "home": "3",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Koper",
-        "away": "Radomlje",
-        "time": "",
-        "league": "Prva Liga",
-        "country": "SLOVÉNIE",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Degerfors",
-        "away": "Hammarby",
-        "time": "",
-        "league": "Allsvenskan",
-        "country": "SUÈDE",
-        "score": {
-            "home": "1",
-            "away": "4"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Halmstad",
-        "away": "Elfsborg",
-        "time": "",
-        "league": "Allsvenskan",
-        "country": "SUÈDE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Sirius",
-        "away": "Göteborg",
-        "time": "",
-        "league": "Allsvenskan",
-        "country": "SUÈDE",
-        "score": {
-            "home": "3",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Varbergs",
-        "away": "AIK Stockholm",
-        "time": "",
-        "league": "Allsvenskan",
-        "country": "SUÈDE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Akropolis",
-        "away": "GAIS",
-        "time": "",
-        "league": "Superettan",
-        "country": "SUÈDE",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Jonkopings",
-        "away": "AFC Eskilstuna",
-        "time": "",
-        "league": "Superettan",
-        "country": "SUÈDE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "St. Gallen",
-        "away": "Lausanne",
-        "time": "",
-        "league": "Super League",
-        "country": "SUISSE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Lugano",
-        "away": "Luzern",
-        "time": "",
-        "league": "Super League",
-        "country": "SUISSE",
-        "score": {
-            "home": "3",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Servette",
-        "away": "Grasshoppers",
-        "time": "",
-        "league": "Super League",
-        "country": "SUISSE",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Dushanbe 83",
-        "away": "Istiqlol Dushanbe",
-        "time": "",
-        "league": "Vysshaya Liga",
-        "country": "TADJIKISTAN",
-        "score": {
-            "home": "0",
-            "away": "8"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Khujand",
-        "away": "Ravshan",
-        "time": "",
-        "league": "Vysshaya Liga",
-        "country": "TADJIKISTAN",
-        "score": {
-            "home": "3",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "CPC",
-        "away": "Taichung",
-        "time": "",
-        "league": "Premier League",
-        "country": "TAÏWAN",
-        "score": {
             "home": "-",
             "away": "-"
         },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Hang Yuen",
-        "away": "Taiwan Steel",
-        "time": "",
-        "league": "Premier League",
-        "country": "TAÏWAN",
-        "score": {
-            "home": "-",
-            "away": "-"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "NTUS",
-        "away": "Taipower",
-        "time": "",
-        "league": "Premier League",
-        "country": "TAÏWAN",
-        "score": {
-            "home": "-",
-            "away": "-"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Taipei Tatung",
-        "away": "Zhanyi Skywalkers",
-        "time": "",
-        "league": "Premier League",
-        "country": "TAÏWAN",
-        "score": {
-            "home": "-",
-            "away": "-"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Taiwan Steel",
-        "away": "Taichung",
-        "time": "",
-        "league": "Premier League",
-        "country": "TAÏWAN",
-        "score": {
-            "home": "3",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Chiangmai Utd",
-        "away": "Chiangrai",
-        "time": "",
-        "league": "Thai League 1",
-        "country": "THAÏLANDE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Prachuap",
-        "away": "Police Tero",
-        "time": "",
-        "league": "Thai League 1",
-        "country": "THAÏLANDE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Ratchaburi",
-        "away": "Nong Bua Pitchaya",
-        "time": "",
-        "league": "Thai League 1",
-        "country": "THAÏLANDE",
-        "score": {
-            "home": "3",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Bangkok Utd",
-        "away": "Muangthong",
-        "time": "",
-        "league": "Thai League 1",
-        "country": "THAÏLANDE",
-        "score": {
-            "home": "3",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Bizertin",
-        "away": "Ben Guerdane",
-        "time": "",
-        "league": "Ligue 1",
-        "country": "TUNISIE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Chebba",
-        "away": "Club Africain",
-        "time": "",
-        "league": "Ligue 1",
-        "country": "TUNISIE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Hammam-Lif",
-        "away": "Sfaxien",
-        "time": "",
-        "league": "Ligue 1",
-        "country": "TUNISIE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Zarzis",
-        "away": "Monastir",
-        "time": "",
-        "league": "Ligue 1",
-        "country": "TUNISIE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "AS Mohamdia",
-        "away": "EM Mahdia",
-        "time": "",
-        "league": "Ligue 2",
-        "country": "TUNISIE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Gafsa",
-        "away": "Sfax Railways",
-        "time": "",
-        "league": "Ligue 2",
-        "country": "TUNISIE",
-        "score": {
-            "home": "1",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Korba",
-        "away": "Tabarka",
-        "time": "",
-        "league": "Ligue 2",
-        "country": "TUNISIE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Oued Ellil",
-        "away": "Msaken",
-        "time": "",
-        "league": "Ligue 2",
-        "country": "TUNISIE",
-        "score": {
-            "home": "2",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Sidi Bouzid",
-        "away": "Gabes",
-        "time": "",
-        "league": "Ligue 2",
-        "country": "TUNISIE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Stade Gabesien",
-        "away": "Sporting Ben Arous",
-        "time": "",
-        "league": "Ligue 2",
-        "country": "TUNISIE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Kasimpasa",
-        "away": "Karagumruk",
-        "time": "",
-        "league": "Super Lig",
-        "country": "TURQUIE",
-        "score": {
-            "home": "1",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Altay",
-        "away": "Adana Demirspor",
-        "time": "",
-        "league": "Super Lig",
-        "country": "TURQUIE",
-        "score": {
-            "home": "1",
-            "away": "3"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Konyaspor",
-        "away": "Rizespor",
-        "time": "",
-        "league": "Super Lig",
-        "country": "TURQUIE",
-        "score": {
-            "home": "3",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Galatasaray",
-        "away": "Fenerbahce",
-        "time": "",
-        "league": "Super Lig",
-        "country": "TURQUIE",
-        "score": {
-            "home": "1",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Bandirmaspor",
-        "away": "Kocaelispor",
-        "time": "",
-        "league": "1. Lig",
-        "country": "TURQUIE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Denizlispor",
-        "away": "Keciorengucu",
-        "time": "",
-        "league": "1. Lig",
-        "country": "TURQUIE",
-        "score": {
-            "home": "2",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Adanaspor",
-        "away": "Ankaragucu",
-        "time": "",
-        "league": "1. Lig",
-        "country": "TURQUIE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Manisa FK",
-        "away": "Altinordu",
-        "time": "",
-        "league": "1. Lig",
-        "country": "TURQUIE",
-        "score": {
-            "home": "1",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Minaj",
-        "away": "Inhulets",
-        "time": "",
-        "league": "Premier League",
-        "country": "UKRAINE",
-        "score": {
-            "home": "2",
-            "away": "2"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Vorskla",
-        "away": "Mariupol",
-        "time": "",
-        "league": "Premier League",
-        "country": "UKRAINE",
-        "score": {
-            "home": "5",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Desna",
-        "away": "Kolos Kovalivka",
-        "time": "",
-        "league": "Premier League",
-        "country": "UKRAINE",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "Rentistas",
-        "away": "Progreso",
-        "time": "",
-        "league": "Primera Division - Clôture",
-        "country": "URUGUAY",
-        "score": {
-            "home": "0",
-            "away": "1"
-        },
-        "Day": "21/11",
-        "Ended": true
-    },
-    {
-        "home": "New York City",
-        "away": "Atlanta Utd",
-        "time": "",
-        "league": "MLS - Phase Finale",
-        "country": "USA",
-        "score": {
-            "home": "0",
-            "away": "0"
-        },
-        "Day": "21/11",
-        "Ended": false
-    },
-    {
-        "home": "Portland Timbers",
-        "away": "Minnesota",
-        "time": "23:30",
-        "league": "MLS - Phase Finale",
-        "country": "USA",
-        "score": {
-            "home": "-",
-            "away": "-"
-        },
-        "Day": "21/11",
+        "Day": "23/11",
         "Ended": "unKnown"
     },
     {
-        "home": "Tampa Bay",
-        "away": "Louisville City",
-        "time": "",
-        "league": "USL Championship - Phase Finale",
-        "country": "USA",
+        "home": "Persela",
+        "away": "Borneo",
+        "time": "09:15",
+        "league": "Liga 1",
+        "country": "INDONÉSIE",
         "score": {
-            "home": "3",
-            "away": "2"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Arema",
+        "away": "Barito Putera",
+        "time": "14:30",
+        "league": "Liga 1",
+        "country": "INDONÉSIE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Dungannon",
+        "away": "Crusaders",
+        "time": "20:45",
+        "league": "NIFL Premiership",
+        "country": "IRLANDE DU NORD",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Wydad",
+        "away": "Berkane",
+        "time": "18:15",
+        "league": "Botola Pro",
+        "country": "MAROC",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Safi",
+        "away": "Raja Casablanca",
+        "time": "20:30",
+        "league": "Botola Pro",
+        "country": "MAROC",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Slovénie -16",
+        "away": "Pologne -16",
+        "time": "13:30",
+        "league": "Amical International",
+        "country": "MONDE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "De Treffers",
+        "away": "IJsselmeervogels",
+        "time": "20:00",
+        "league": "Tweede Divisie",
+        "country": "PAYS-BAS",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Rijnsburgse Boys",
+        "away": "AFC",
+        "time": "20:00",
+        "league": "Tweede Divisie",
+        "country": "PAYS-BAS",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Ceske Budejovice",
+        "away": "Sigma Olomouc",
+        "time": "16:00",
+        "league": "MOL Cup",
+        "country": "RÉPUBLIQUE TCHÈQUE",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Istaravshan",
+        "away": "CSKA Pomir Dushanbe",
+        "time": "10:00",
+        "league": "Vysshaya Liga",
+        "country": "TADJIKISTAN",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Penarol",
+        "away": "Cerro Largo",
+        "time": "01:45",
+        "league": "Primera Division - Clôture",
+        "country": "URUGUAY",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Atenas",
+        "away": "Uruguay Montevideo",
+        "time": "21:15",
+        "league": "Segunda Division",
+        "country": "URUGUAY",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Racing Montevideo",
+        "away": "Juventud",
+        "time": "23:45",
+        "league": "Segunda Division",
+        "country": "URUGUAY",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
+        "Ended": "unKnown"
+    },
+    {
+        "home": "Atl. Venezuela",
+        "away": "Hermanos Colmenares",
+        "time": "",
+        "league": "Primera Division - 2ème Tour",
+        "country": "VÉNÉZUELA",
+        "score": {
+            "home": "-",
+            "away": "-"
+        },
+        "Day": "23/11",
         "Ended": false
     },
     {
-        "home": "Orange County SC",
-        "away": "San Antonio",
-        "time": "",
-        "league": "USL Championship - Phase Finale",
-        "country": "USA",
+        "home": "Portuguesa",
+        "away": "Metropolitanos",
+        "time": "22:15",
+        "league": "Primera Division - 2ème Tour",
+        "country": "VÉNÉZUELA",
         "score": {
-            "home": "2",
-            "away": "1"
+            "home": "-",
+            "away": "-"
         },
-        "Day": "21/11",
-        "Ended": false
+        "Day": "23/11",
+        "Ended": "unKnown"
     }
 ]
