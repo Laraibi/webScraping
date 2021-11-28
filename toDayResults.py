@@ -29,7 +29,7 @@ except TimeoutException:
 matchsList = []
 
 
-for x in range(6):
+for x in range(8):
     print(f"==========Day : {x+1}")
 
     timeout = 90
