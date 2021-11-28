@@ -4,9 +4,10 @@ from selenium import webdriver
 from selenium.webdriver.common import by
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support import expected_conditions as EC, wait
 from selenium.common.exceptions import TimeoutException
 import json
+import time
 
 caps = webdriver.DesiredCapabilities.CHROME.copy()
 caps['enable-webgl-developer-extensions'] = True
@@ -26,10 +27,19 @@ try:
 except TimeoutException:
     driver.quit()
 
+driver.find_element(By.CLASS_NAME, "calendar__datepicker").click()
+time.sleep(5)
+driver.find_element(By.CLASS_NAME, "day").click()
+try:
+    WebDriverWait(driver, timeout).until(
+        EC.visibility_of_element_located((By.CLASS_NAME, "event__match")))
+except TimeoutException:
+    driver.quit()
+# exit()
 matchsList = []
 
 
-for x in range(8):
+for x in range(14):
     print(f"==========Day : {x+1}")
 
     timeout = 90
@@ -48,7 +58,7 @@ for x in range(8):
         By.CSS_SELECTOR, "div.calendar__datepicker").text.split(" ")[0]
     matchCount=0
     for x in range(len(eventsElements)):
-        # for x in range(10):
+    # for x in range(100):
         event = eventsElements[x]
         if "event__header" in event.get_attribute("class").split(" "):
             league = event.find_element(

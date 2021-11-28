@@ -30,9 +30,9 @@ countries.forEach((element) => {
 });
 
 
-// console.log(stats)
-matchs.filter((match)=>match.league=="Bundesliga").forEach((match)=>{
-    console.log("Bundesliga Match")
-    console.log(`Day : ${match.Day}`)
-    console.log(`${match.home} VS ${match.away} `)
-})
+console.log(stats)
+// matchs.filter((match)=>match.league=="Bundesliga").forEach((match)=>{
+//     console.log("Bundesliga Match")
+//     console.log(`Day : ${match.Day}`)
+//     console.log(`${match.home} VS ${match.away} `)
+// })
