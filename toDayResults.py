@@ -8,15 +8,17 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 import json
 
-# URL = "https://www.flashscore.fr/"
-# headers = {
-#     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36",
-#     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+caps = webdriver.DesiredCapabilities.CHROME.copy()
+caps['enable-webgl-developer-extensions'] = True
+caps['enable-webgl-draft-extensions'] = True
+caps['enable-drdc'] = True
+driver = webdriver.Chrome(
+    executable_path='chromedriver.exe', desired_capabilities=caps)
 
-# }
-driver = webdriver.Chrome(executable_path='chromedriver')
+# print(caps)
 driver.get('https://www.flashscore.fr/')
-# driver.get('https://www.kooora.com/?region=-1&area=0')
+driver.maximize_window()
+# exit()
 timeout = 90
 try:
     WebDriverWait(driver, timeout).until(
@@ -26,9 +28,9 @@ except TimeoutException:
 
 matchsList = []
 
-for x in range(1):
-        
-    driver.find_element(By.CLASS_NAME,"calendar__direction--tomorrow").click()
+
+for x in range(6):
+    print(f"==========Day : {x+1}")
 
     timeout = 90
     try:
@@ -44,19 +46,20 @@ for x in range(1):
     # print(len(eventsElements))
     day = driver.find_element(
         By.CSS_SELECTOR, "div.calendar__datepicker").text.split(" ")[0]
+    matchCount=0
     for x in range(len(eventsElements)):
-    # for x in range(20):
+        # for x in range(10):
         event = eventsElements[x]
         if "event__header" in event.get_attribute("class").split(" "):
-            league = event.find_element(By.CLASS_NAME, "event__title--name").text
+            league = event.find_element(
+                By.CLASS_NAME, "event__title--name").text
             country = event.find_element(
                 By.CLASS_NAME, "event__title--type").text.replace("\"", "")
-            # print(league)
+            print(f"crawling league : {league} // country :{country}")
             continue
         else:
-            # print("no league")
             match = event
-        # print(match.text)
+        matchCount+=1
         home = match.find_elements(By.CLASS_NAME, "event__participant--home")[
             0].text if len(match.find_elements(By.CLASS_NAME, "event__participant--home")) > 0 else ""
         away = match.find_elements(By.CLASS_NAME, "event__participant--away")[
@@ -71,30 +74,23 @@ for x in range(1):
             By.CLASS_NAME, "event__score--away")) > 0 else ""
         score["home"] = match.find_elements(By.CLASS_NAME, "event__score--home")[0].text if len(match.find_elements(
             By.CLASS_NAME, "event__score--home")) > 0 else ""
-        # league = match.find_elements(
-        #     By.XPATH, "//div[@class='event__header'][1]")[0].text
-        # league = match.find_elements(
-        #     By.XPATH, "//preceding::div[@class='event__header']")[0].text
-        # print(league)
         isEnded = "unKnown"
         if len(match.find_elements(By.CLASS_NAME, "event__stage--block")) > 0:
             isEnded = True if match.find_element(
                 By.CLASS_NAME, "event__stage--block").text == "Terminé" else False
 
         matchsList.append({"home": home,
-                        "away": away,
-                        "time": time,
-                        "league": league,
-                        "country": country,
-                        "score": score,
-                        "Day": day,
-                        "Ended": isEnded
-                        })
-# exit()
-# print(matchsList)
-# jsonStr = json.dumps(matchsList)
-# jsonFile = open("matchsToDay.json", "w")
-# jsonFile.write(jsonStr)
+                           "away": away,
+                           "time": time,
+                           "league": league,
+                           "country": country,
+                           "score": score,
+                           "Day": day,
+                           "Ended": isEnded
+                           })
+    print(f"match count :{matchCount}")
+    driver.find_element(By.CLASS_NAME, "calendar__direction--tomorrow").click()
+
 with open('matchsToDay.json', 'w', encoding='utf8') as json_file:
     json.dump(matchsList, json_file, ensure_ascii=False)
 json_file.close()
