@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC, wait
 from selenium.common.exceptions import TimeoutException
 import json
 import time
-
+# time.get_clock_info
 caps = webdriver.DesiredCapabilities.CHROME.copy()
 caps['enable-webgl-developer-extensions'] = True
 caps['enable-webgl-draft-extensions'] = True
