@@ -39,7 +39,7 @@ except TimeoutException:
 matchsList = []
 
 
-for x in range(1):
+for x in range(14):
     print(f"==========Day : {x+1}")
 
     timeout = 90
@@ -80,9 +80,9 @@ for x in range(1):
             "home": 0,
             "away": 0,
         }
-        score["away"] = match.find_elements(By.CLASS_NAME, "event__score--away")[0].text.replace("\nRFS", "") if len(match.find_elements(
+        score["away"] = match.find_elements(By.CLASS_NAME, "event__score--away")[0].text if len(match.find_elements(
             By.CLASS_NAME, "event__score--away")) > 0 else ""
-        score["home"] = match.find_elements(By.CLASS_NAME, "event__score--home")[0].text.replace("\nRFS", "") if len(match.find_elements(
+        score["home"] = match.find_elements(By.CLASS_NAME, "event__score--home")[0].text if len(match.find_elements(
             By.CLASS_NAME, "event__score--home")) > 0 else ""
         isEnded = "unKnown"
         if len(match.find_elements(By.CLASS_NAME, "event__stage--block")) > 0:
@@ -91,7 +91,7 @@ for x in range(1):
 
         matchsList.append({"home": home,
                            "away": away,
-                           "time": time,
+                           "time": time.replace("\nRFS", ""),
                            "league": league,
                            "country": country,
                            "score": score,
