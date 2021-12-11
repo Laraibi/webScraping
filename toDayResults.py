@@ -39,7 +39,7 @@ except TimeoutException:
 matchsList = []
 
 
-for x in range(14):
+for x in range(1):
     print(f"==========Day : {x+1}")
 
     timeout = 90
@@ -56,9 +56,9 @@ for x in range(14):
     # print(len(eventsElements))
     day = driver.find_element(
         By.CSS_SELECTOR, "div.calendar__datepicker").text.split(" ")[0]
-    matchCount=0
+    matchCount = 0
     for x in range(len(eventsElements)):
-    # for x in range(100):
+        # for x in range(100):
         event = eventsElements[x]
         if "event__header" in event.get_attribute("class").split(" "):
             league = event.find_element(
@@ -69,7 +69,7 @@ for x in range(14):
             continue
         else:
             match = event
-        matchCount+=1
+        matchCount += 1
         home = match.find_elements(By.CLASS_NAME, "event__participant--home")[
             0].text if len(match.find_elements(By.CLASS_NAME, "event__participant--home")) > 0 else ""
         away = match.find_elements(By.CLASS_NAME, "event__participant--away")[
@@ -80,9 +80,9 @@ for x in range(14):
             "home": 0,
             "away": 0,
         }
-        score["away"] = match.find_elements(By.CLASS_NAME, "event__score--away")[0].text if len(match.find_elements(
+        score["away"] = match.find_elements(By.CLASS_NAME, "event__score--away")[0].text.replace("\nRFS", "") if len(match.find_elements(
             By.CLASS_NAME, "event__score--away")) > 0 else ""
-        score["home"] = match.find_elements(By.CLASS_NAME, "event__score--home")[0].text if len(match.find_elements(
+        score["home"] = match.find_elements(By.CLASS_NAME, "event__score--home")[0].text.replace("\nRFS", "") if len(match.find_elements(
             By.CLASS_NAME, "event__score--home")) > 0 else ""
         isEnded = "unKnown"
         if len(match.find_elements(By.CLASS_NAME, "event__stage--block")) > 0:
