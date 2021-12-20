@@ -8,6 +8,11 @@ from selenium.webdriver.support import expected_conditions as EC, wait
 from selenium.common.exceptions import TimeoutException
 import json
 import time
+
+from datetime import datetime
+now = datetime.now()
+dt_string = now.strftime("%d_%m_%YT%Hh%Mm%Ss")
+fileName="14DayResult"+dt_string
 # time.get_clock_info
 caps = webdriver.DesiredCapabilities.CHROME.copy()
 caps['enable-webgl-developer-extensions'] = True
@@ -101,7 +106,7 @@ for x in range(14):
     print(f"match count :{matchCount}")
     driver.find_element(By.CLASS_NAME, "calendar__direction--tomorrow").click()
 
-with open('matchsToDay.json', 'w', encoding='utf8') as json_file:
+with open(fileName+'.json', 'w', encoding='utf8') as json_file:
     json.dump(matchsList, json_file, ensure_ascii=False)
 json_file.close()
 driver.quit()

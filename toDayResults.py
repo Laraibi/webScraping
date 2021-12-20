@@ -8,7 +8,11 @@ from selenium.webdriver.support import expected_conditions as EC, wait
 from selenium.common.exceptions import TimeoutException
 import json
 import time
-# time.get_clock_info
+from datetime import datetime
+now = datetime.now()
+dt_string = now.strftime("%d_%m_%YT%Hh%Mm%Ss")
+fileName="toDayResult"+dt_string
+
 caps = webdriver.DesiredCapabilities.CHROME.copy()
 caps['enable-webgl-developer-extensions'] = True
 caps['enable-webgl-draft-extensions'] = True
@@ -81,7 +85,7 @@ for x in range(len(eventsElements)):
                        })
 print(f"match count :{matchCount}")
 
-with open('matchsToDay.json', 'w', encoding='utf8') as json_file:
+with open(fileName+'.json', 'w', encoding='utf8') as json_file:
     json.dump(matchsList, json_file, ensure_ascii=False)
 json_file.close()
 driver.quit()
