@@ -13,5 +13,16 @@ for today data run this code :
 
 to exploit data here is a CRM project built with VueJS and LARAVEL :
 
-Backned (Php-Laravel, MySql) : <a href="https://github.com/Laraibi/soccerDashBackend">  repo </a>
-FronTend (Js-VueJs, BootStrap) : <a href="https://github.com/Laraibi/soccerDashFrontEnd">  repo </a>
+<ul>
+  
+  <li>
+Backned (Php-Laravel, MySql) : <a href="https://github.com/Laraibi/soccerDashBackend">  repo </a>    
+  </li>
+  <li>
+    FronTend (Js-VueJs, BootStrap) : <a href="https://github.com/Laraibi/soccerDashFrontEnd">  repo </a>
+  </li>
+
+</ul>
+
+
+
