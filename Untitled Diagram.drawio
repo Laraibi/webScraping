@@ -1,1 +1,113 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T21:57:15.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.4.7" etag="KptSOJ7ZBFLbGUuG_aX9" type="github"><diagram id="ra090TQqC1TVSofZl9dN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-26T00:58:47.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="qBxetUhSQW70My53PW6b" version="16.4.7" type="github" pages="2">
+  <diagram id="ra090TQqC1TVSofZl9dN" name="use Case">
+    <mxGraphModel dx="1221" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5pWSBIOGs208yuar4rHA-1" value="CRM TS" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#2C64A4;strokeColor=#FD6D35;gradientColor=#ffffff;shadow=0;sketch=0;fillStyle=zigzag;" vertex="1" parent="1">
+          <mxGeometry x="230" y="30" width="320" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="5pWSBIOGs208yuar4rHA-2" value="Auth" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="80" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5pWSBIOGs208yuar4rHA-3" value="consulter la bannette" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="180" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5pWSBIOGs208yuar4rHA-4" value="Codifier des&amp;nbsp; prospections (appels)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="60" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5pWSBIOGs208yuar4rHA-5" value="voir rappels &amp;amp; rdv programmés" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358" y="235" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5pWSBIOGs208yuar4rHA-6" value="CRUD &amp;amp; Imports Clients (bannette)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="130" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5pWSBIOGs208yuar4rHA-7" value="création &amp;amp; config comptes prospecteur" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5pWSBIOGs208yuar4rHA-8" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5pWSBIOGs208yuar4rHA-9" value="Prsospecteur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5pWSBIOGs208yuar4rHA-10" value="voir des rapports =&amp;gt; statistiques par prospecteur" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="335" width="145" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5pWSBIOGs208yuar4rHA-12" value="Codifier des&amp;nbsp; prospections (appels)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="365" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iCZ0ywXKxdEoLzoU49FP-1" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="300" y="270" as="sourcePoint" />
+            <mxPoint x="380" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCZ0ywXKxdEoLzoU49FP-2" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5pWSBIOGs208yuar4rHA-9" target="5pWSBIOGs208yuar4rHA-2">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="310" y="270" as="sourcePoint" />
+            <mxPoint x="370" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="40" />
+              <mxPoint x="440" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCZ0ywXKxdEoLzoU49FP-3" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;" edge="1" parent="1" source="5pWSBIOGs208yuar4rHA-8" target="5pWSBIOGs208yuar4rHA-2">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="310" y="270" as="sourcePoint" />
+            <mxPoint x="260" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WClvq3YM0WJYj9vJKpVZ" name="Class Diagramme">
+    <mxGraphModel dx="1221" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="T2sBMQwGrrTg_-tI-4FX-0" />
+        <mxCell id="T2sBMQwGrrTg_-tI-4FX-1" parent="T2sBMQwGrrTg_-tI-4FX-0" />
+        <mxCell id="T2sBMQwGrrTg_-tI-4FX-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;User&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id: integer&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ full name : string&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Email. String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ login string&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Password hash.&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Role [Admin | Prospect]&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ s&#39;authentifier (login,pass): Boolean.&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+&amp;nbsp;&lt;/p&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-top%3A%204px%20%3B%20text-align%3A%20center%26quot%3B%26gt%3B%26lt%3Bb%26gt%3BUser%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fp%26gt%3B%26lt%3Bhr%20size%3D%26quot%3B1%26quot%3B%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20id%3A%20integer%26lt%3B%2Fp%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20full%20name%20%3A%20string%26lt%3B%2Fp%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20login%20string%26lt%3B%2Fp%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20Password%20hash.%26lt%3B%2Fp%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20Role%20%5BAdmin%20%7C%20Prospect%5D%26lt%3B%2Fp%26gt%3B%26lt%3Bhr%20size%3D%26quot%3B1%26quot%3B%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20s&#39;authentifier%20(login%2Cpass)%3A%20Boolean.%26lt%3B%2Fp%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%26amp%3Bnbsp%3B%26lt%3B%2Fp%26gt%3B%22%20style%3D%22verticalAlign%3Dtop%3Balign%3Dleft%3Boverflow%3Dfill%3BfontSize%3D12%3BfontFamily%3DHelvetica%3Bhtml%3D1%3Bshadow%3D0%3Bsketch%3D0%3BfillStyle%3Dzigzag%3BstrokeColor%3D%23FD6D35%3BfillColor%3D%232C64A4%3BgradientColor%3D%23ffffff%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%2250%22%20width%3D%22230%22%20height%3D%22230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;sketch=0;fillStyle=zigzag;strokeColor=#FD6D35;fillColor=#2C64A4;gradientColor=#ffffff;" vertex="1" parent="T2sBMQwGrrTg_-tI-4FX-1">
+          <mxGeometry x="150" y="20" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jDyly-DM5acpHVmm9ErB-0" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Client&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id: integer&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ company name: string&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Activity string&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Adresse string.&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Villle String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Tél 1 .&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Tél 2.&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Fax.&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+Email.&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+SiteWeb&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;sketch=0;fillStyle=zigzag;strokeColor=#FD6D35;fillColor=#2C64A4;gradientColor=#ffffff;" vertex="1" parent="T2sBMQwGrrTg_-tI-4FX-1">
+          <mxGeometry x="560" y="310" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jDyly-DM5acpHVmm9ErB-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Prospecteur&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Date d&#39;ajout.&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ codifier des appels()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ programmés des rappels().&lt;/p&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-top%3A%204px%20%3B%20text-align%3A%20center%26quot%3B%26gt%3B%26lt%3Bb%26gt%3BUser%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fp%26gt%3B%26lt%3Bhr%20size%3D%26quot%3B1%26quot%3B%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20id%3A%20integer%26lt%3B%2Fp%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20full%20name%20%3A%20string%26lt%3B%2Fp%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20login%20string%26lt%3B%2Fp%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20Password%20hash.%26lt%3B%2Fp%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20Role%20%5BAdmin%20%7C%20Prospect%5D%26lt%3B%2Fp%26gt%3B%26lt%3Bhr%20size%3D%26quot%3B1%26quot%3B%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20s&#39;authentifier%20(login%2Cpass)%3A%20Boolean.%26lt%3B%2Fp%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%26amp%3Bnbsp%3B%26lt%3B%2Fp%26gt%3B%22%20style%3D%22verticalAlign%3Dtop%3Balign%3Dleft%3Boverflow%3Dfill%3BfontSize%3D12%3BfontFamily%3DHelvetica%3Bhtml%3D1%3Bshadow%3D0%3Bsketch%3D0%3BfillStyle%3Dzigzag%3BstrokeColor%3D%23FD6D35%3BfillColor%3D%232C64A4%3BgradientColor%3D%23ffffff%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%2250%22%20width%3D%22230%22%20height%3D%22230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;sketch=0;fillStyle=zigzag;strokeColor=#FD6D35;fillColor=#2C64A4;gradientColor=#ffffff;" vertex="1" parent="T2sBMQwGrrTg_-tI-4FX-1">
+          <mxGeometry x="280" y="310" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jDyly-DM5acpHVmm9ErB-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Admin&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;+ import des clients.() .&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;+ Maj de la bannette().&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;+ Création des profils prospects()&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-top%3A%204px%20%3B%20text-align%3A%20center%26quot%3B%26gt%3B%26lt%3Bb%26gt%3BUser%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fp%26gt%3B%26lt%3Bhr%20size%3D%26quot%3B1%26quot%3B%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20id%3A%20integer%26lt%3B%2Fp%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20full%20name%20%3A%20string%26lt%3B%2Fp%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20login%20string%26lt%3B%2Fp%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20Password%20hash.%26lt%3B%2Fp%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20Role%20%5BAdmin%20%7C%20Prospect%5D%26lt%3B%2Fp%26gt%3B%26lt%3Bhr%20size%3D%26quot%3B1%26quot%3B%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%20s&#39;authentifier%20(login%2Cpass)%3A%20Boolean.%26lt%3B%2Fp%26gt%3B%26lt%3Bp%20style%3D%26quot%3Bmargin%3A%200px%20%3B%20margin-left%3A%204px%26quot%3B%26gt%3B%2B%26amp%3Bnbsp%3B%26lt%3B%2Fp%26gt%3B%22%20style%3D%22verticalAlign%3Dtop%3Balign%3Dleft%3Boverflow%3Dfill%3BfontSize%3D12%3BfontFamily%3DHelvetica%3Bhtml%3D1%3Bshadow%3D0%3Bsketch%3D0%3BfillStyle%3Dzigzag%3BstrokeColor%3D%23FD6D35%3BfillColor%3D%232C64A4%3BgradientColor%3D%23ffffff%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2240%22%20y%3D%2250%22%20width%3D%22230%22%20height%3D%22230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;sketch=0;fillStyle=zigzag;strokeColor=#FD6D35;fillColor=#2C64A4;gradientColor=#ffffff;" vertex="1" parent="T2sBMQwGrrTg_-tI-4FX-1">
+          <mxGeometry x="20" y="310" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jDyly-DM5acpHVmm9ErB-3" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;" edge="1" parent="T2sBMQwGrrTg_-tI-4FX-1" source="jDyly-DM5acpHVmm9ErB-2" target="T2sBMQwGrrTg_-tI-4FX-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="380" y="340" as="sourcePoint" />
+            <mxPoint x="540" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jDyly-DM5acpHVmm9ErB-4" value="" style="endArrow=open;startArrow=circlePlus;endFill=0;startFill=0;endSize=8;html=1;rounded=0;exitX=0.205;exitY=0.012;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="T2sBMQwGrrTg_-tI-4FX-1" source="jDyly-DM5acpHVmm9ErB-1" target="T2sBMQwGrrTg_-tI-4FX-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="212.41379310344837" y="340" as="sourcePoint" />
+            <mxPoint x="243.6363636363635" y="259.9999999999999" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jDyly-DM5acpHVmm9ErB-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Codif&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id: integer&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id client&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id prospect.&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ DateTime.&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+Joingnabilité (Liste).&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Nbr Tentatives : + integer&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+Taille&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+Capital&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+Reponse Client.&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+Nom du contact..&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+Poste Contact.&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+Tél.&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+id_Prestation.&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+Proposition Commerciale.&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;sketch=0;fillStyle=zigzag;strokeColor=#FD6D35;fillColor=#2C64A4;gradientColor=#ffffff;" vertex="1" parent="T2sBMQwGrrTg_-tI-4FX-1">
+          <mxGeometry x="270" y="560" width="230" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="jDyly-DM5acpHVmm9ErB-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Prestation&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Nom&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ Description&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;sketch=0;fillStyle=zigzag;strokeColor=#FD6D35;fillColor=#2C64A4;gradientColor=#ffffff;" vertex="1" parent="T2sBMQwGrrTg_-tI-4FX-1">
+          <mxGeometry x="20" y="560" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jDyly-DM5acpHVmm9ErB-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;/p&gt;&lt;b&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;RDV&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id_client&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id_prospect.&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ DateTime.&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;sketch=0;fillStyle=zigzag;strokeColor=#FD6D35;fillColor=#2C64A4;gradientColor=#ffffff;" vertex="1" parent="T2sBMQwGrrTg_-tI-4FX-1">
+          <mxGeometry x="560" y="550" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jDyly-DM5acpHVmm9ErB-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;/p&gt;&lt;b&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;Rappel&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id_client&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id_codif&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ id_Prospect&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ dateTime.&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;sketch=0;fillStyle=zigzag;strokeColor=#FD6D35;fillColor=#2C64A4;gradientColor=#ffffff;" vertex="1" parent="T2sBMQwGrrTg_-tI-4FX-1">
+          <mxGeometry x="560" y="790" width="230" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
